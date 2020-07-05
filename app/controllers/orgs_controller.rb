@@ -2,7 +2,7 @@ class OrgsController < ApplicationController
   before_action :set_org, only: [:show, :edit, :update, :destroy]
   
   def index
-    @orgs = Org.all
+    @orgs = params[:q].present? ? Org.joins(:place).near(params[:q]) : Org.all
   end
 
   def show
@@ -17,7 +17,6 @@ class OrgsController < ApplicationController
   
   def create
     @org = Org.new(org_params)
-
     respond_to do |format|
       if @org.save
         format.html { redirect_to @org, notice: "Org was successfully created." }
@@ -55,6 +54,6 @@ class OrgsController < ApplicationController
     end
 
     def org_params
-      params.require(:org).permit(:name)
+      params.require(:org).permit(:name, place_attributes: [:address, :latitude, :longitude])
     end
 end

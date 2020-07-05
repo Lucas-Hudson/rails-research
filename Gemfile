@@ -46,3 +46,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'table_print'
+gem 'dotenv-rails'
+gem "bootstrap_form", "~> 4.0"
+gem 'geocoder'
