@@ -49,3 +49,4 @@ gem 'table_print'
 gem 'dotenv-rails'
 gem "bootstrap_form", "~> 4.0"
 gem 'geocoder'
+gem 'faker'

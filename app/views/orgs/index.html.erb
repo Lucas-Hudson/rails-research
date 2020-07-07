@@ -9,10 +9,24 @@
   </div>
 
   <div class="row justify-content-center mb-3">
-    <div class="col-10 text-center">
-      <%= bootstrap_form_tag url: orgs_path, method: :get do |f| %>
-        <%= f.search_field :q, hide_label: true, value: params[:q] %>
-        <%= f.submit "Search", name: nil %>
+    <div class="col text-center">
+      <%= bootstrap_form_tag url: "/search", method: :get do |f| %>
+        <%= f.search_field :place, hide_label: true, value: params[:place] %>
+        <div class=" row">
+          <% @searchable_attribute_categories.each do |c| %>
+            <div class="col text-left">
+              <%= "#{c.name}: " %> <br>
+              <%= collection_check_boxes(nil, :filters, c.searchable_attributes, :id, :name, include_hidden: false) do |b| %>
+                <%= b.check_box checked: params[:filters]&.include?(b.object.id.to_s) %>
+                <%= b.label %> <br>
+              <% end %>
+            </div>
+          <% end %>
+        </div>
+        <div class="mb-3">
+          <%= link_to "Clear", orgs_path %>
+          <%= f.submit "Search", name: nil, class: "btn btn-primary ml-3" %>
+        </div>
       <% end %>
     </div>
   </div>
@@ -20,25 +34,31 @@
 
 
   <div class="row justify-content-center">
-    <div class="col-10">
-      <% @orgs.each do |org| %>
-        <div class="row border-bottom">
-          <div class="col">
-            <%= org.name %>
-          </div>
-          <div class="col">
-            <%= org.place&.address %>
-          </div>
-          <div class="col">
-            <%= link_to "Show", org %>
-            <%= link_to "Edit", edit_org_path(org) %>
-            <%= link_to "Destroy", org, method: :delete, data: { confirm: "Are you sure?" } %>
-          </div>
-        </div>
-      <% end %>
+    <div class="col">
+      <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Address</th>
+          <th scope="col">Professions</th>
+          <th scope="col">Gender</th>
+          <th scope="col">Currencies</th>
+        </tr>
+        </thead>
+        <tbody>
+        <% @orgs.each do |org| %>
+          <tr>
+            <td><%= org.name %></td>
+            <td><%= org.place.address %></td>
+            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Profession")).pluck(:name).join(", ") %></td>
+            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Gender")).pluck(:name).join(", ") %></td>
+            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Accepted currrency")).pluck(:name).join(", ") %></td>
+          </tr>
+        <% end %>
+        </tbody>
+      </table>
     </div>
   </div>
-
 </section>
 
 

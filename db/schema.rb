@@ -10,10 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_07_04_133716) do
+ActiveRecord::Schema.define(version: 2020_07_05_132300) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "org_searchable_attributes", force: :cascade do |t|
+    t.bigint "org_id"
+    t.bigint "searchable_attribute_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["org_id"], name: "index_org_searchable_attributes_on_org_id"
+    t.index ["searchable_attribute_id"], name: "index_org_searchable_attributes_on_searchable_attribute_id"
+  end
 
   create_table "orgs", force: :cascade do |t|
     t.string "name"
@@ -29,6 +38,20 @@ ActiveRecord::Schema.define(version: 2020_07_04_133716) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["org_id"], name: "index_places_on_org_id"
+  end
+
+  create_table "searchable_attribute_categories", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "searchable_attributes", force: :cascade do |t|
+    t.bigint "searchable_attribute_category_id"
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["searchable_attribute_category_id"], name: "index_searchable_attributes_on_searchable_attribute_category_id"
   end
 
   add_foreign_key "places", "orgs"

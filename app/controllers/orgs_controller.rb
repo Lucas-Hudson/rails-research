@@ -2,7 +2,10 @@ class OrgsController < ApplicationController
   before_action :set_org, only: [:show, :edit, :update, :destroy]
   
   def index
-    @orgs = params[:q].present? ? Org.joins(:place).near(params[:q]) : Org.all
+    puts "index"
+    puts params
+    @searchable_attribute_categories = SearchableAttributeCategory.all
+    @orgs = SearchResult.new(params: params).results
   end
 
   def show
