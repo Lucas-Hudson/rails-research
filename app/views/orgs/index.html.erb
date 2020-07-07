@@ -15,7 +15,7 @@
         <div class=" row">
           <% @searchable_attribute_categories.each do |c| %>
             <div class="col text-left">
-              <%= "#{c.name}: " %> <br>
+              <%= "#{c.name}: #{"(mandatory)" if c.mandatory}" %> <br>
               <%= collection_check_boxes(nil, :filters, c.searchable_attributes, :id, :name, include_hidden: false) do |b| %>
                 <%= b.check_box checked: params[:filters]&.include?(b.object.id.to_s) %>
                 <%= b.label %> <br>
@@ -38,6 +38,7 @@
       <table class="table table-striped">
         <thead>
         <tr>
+          <th scope="col">Id</th>
           <th scope="col">Name</th>
           <th scope="col">Address</th>
           <th scope="col">Professions</th>
@@ -48,6 +49,7 @@
         <tbody>
         <% @orgs.each do |org| %>
           <tr>
+            <td><%= org.id %></td>
             <td><%= org.name %></td>
             <td><%= org.place.address %></td>
             <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Profession")).pluck(:name).join(", ") %></td>
