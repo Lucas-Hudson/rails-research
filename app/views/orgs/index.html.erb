@@ -40,10 +40,8 @@
         <tr>
           <th scope="col">Id</th>
           <th scope="col">Name</th>
-          <th scope="col">Address</th>
-          <th scope="col">Professions</th>
-          <th scope="col">Gender</th>
-          <th scope="col">Currencies</th>
+          <th scope="col">CAT 1</th>
+          <th scope="col">CAT 2</th>
         </tr>
         </thead>
         <tbody>
@@ -51,10 +49,8 @@
           <tr>
             <td><%= org.id %></td>
             <td><%= org.name %></td>
-            <td><%= org.place.address %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Profession")).pluck(:name).join(", ") %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Gender")).pluck(:name).join(", ") %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "Accepted currrency")).pluck(:name).join(", ") %></td>
+            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "CAT 1")).pluck(:name).join(", ") %></td>
+            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_attribute_categories.find_by(name: "CAT 2")).pluck(:name).join(", ") %></td>
           </tr>
         <% end %>
         </tbody>

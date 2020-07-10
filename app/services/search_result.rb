@@ -3,13 +3,8 @@ class SearchResult
     @params = params
     @params[:filters] = @params[:filters]&.split("/")&.flatten
     @results = Org.all
-    @mandatory_ids = []
-  end
-
-  def mandatory_filter_ids
-    a = SearchableAttribute.joins(:searchable_attribute_category).where(searchable_attribute_categories: { mandatory: true }).pluck(:id)
-    b = @params[:filters].map { |x| x.to_i}
-    a & b
+    @mandatory_filters = nil
+    @optional_filters = nil
   end
 
   def results
@@ -20,28 +15,41 @@ class SearchResult
   end
 
   def filter_by_location
-    @results.joins(:place).near(@params[:place])
+    @results = @results.joins(:place).near(@params[:place])
   end
 
   def filter_by_attributes
-    @results.joins(:searchable_attributes).where(searchable_attributes: { id: @params[:filters] })
-    # filter_optional
-    # filter_mandatories
-    # @results
+    sort_filters
+    filter_mandatories
+    filter_optionals
+    puts "#" * 100
+    puts @params
+    puts "mandatory_filters"
+    puts @mandatory_filters
+    puts "optional_filters"
+    puts @optional_filters
+    puts "results"
+    puts @results
+    puts "#" * 100
+    @results
   end
 
   def filter_mandatories
-    mandatory_filter_ids.each do |m|
-      @results = @results.joins(:searchable_attributes).where(searchable_attributes: { id: m })
-      # @results = Org.where(id: @results.pluck(:id))
+    @mandatory_filters.each do |f|
+      @results = Org.union.intersect(@results, Org.joins(:searchable_attributes).where(searchable_attributes: {id: f}))
     end
   end
 
-  def filter_optional
-    @results = @results.joins(:searchable_attributes).where(searchable_attributes: { id: @params[:filters] - mandatory_filter_ids })
+  def filter_optionals
+    @results = @results.joins(:searchable_attributes).where(searchable_attributes: {id: @optional_filters})
   end
 
   def no_filters?
     @params[:place].nil? && @params[:filters].nil?
+  end
+
+  def sort_filters
+    @mandatory_filters = SearchableAttribute.mandatories.where(id: [@params[:filters]]).pluck(:id)
+    @optional_filters = SearchableAttribute.optionals.where(id: [@params[:filters]]).pluck(:id)
   end
 end
