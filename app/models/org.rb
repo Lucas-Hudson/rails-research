@@ -1,4 +1,8 @@
 class Org < ApplicationRecord
+  extend FriendlyId
+  friendly_id :name, use: :slugged
+  paginates_per 20
+
   has_one :place, dependent: :destroy
   accepts_nested_attributes_for :place
 

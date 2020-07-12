@@ -51,3 +51,5 @@ gem "bootstrap_form", "~> 4.0"
 gem 'geocoder'
 gem 'faker'
 gem 'active_record_extended'
+gem 'friendly_id', '~> 5.2.4'
+gem 'kaminari'

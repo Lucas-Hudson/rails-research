@@ -3,9 +3,12 @@ Rails.application.routes.draw do
 
   root "orgs#index"
 
-  get "/search", to: redirect { |p, req| req.params[:place].present? ? "/geo_search/#{req.params[:place]}/#{req.params[:filters].join("/")}" : "/filter_search/#{req.params[:filters].join("/")}"}
-  get "/geo_search/:place/*filters", to: "orgs#index"
-  get "/filter_search/*filters", to: "orgs#index"
+  resources :orgs, only: :index, to: redirect { |p, req|
+    place = req.params[:place].present? ? "/#{req.params[:place].parameterize}" : ""
+    filters = req.params[:filters].present? ? "/#{req.params[:filters]&.join("/")}" : ""
+    "/search#{place}#{filters}"
+  }
+  resources :orgs, except: :index
 
-  resources :orgs
+  get "/search", "/search/*filters", to: "orgs#index"
 end

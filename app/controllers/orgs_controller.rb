@@ -1,11 +1,13 @@
 class OrgsController < ApplicationController
   before_action :set_org, only: [:show, :edit, :update, :destroy]
-  
+
   def index
     puts "index"
     puts params
-    @searchable_attribute_categories = SearchableAttributeCategory.all
-    @orgs = SearchResult.new(params: params).results
+    @searchable_categories = SearchableAttributeCategory.all
+    search = SearchResult.new(params[:filters])
+    @orgs = search.results.page(params[:page])
+    @place = search.get_place
   end
 
   def show
