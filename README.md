@@ -1,24 +1,38 @@
-# README
+# Rails search page
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple search page with filters and search by location.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+1 - Bundle install
+```
+$ gem install bundler # If you don't have bundler 2
+$ bundle install
+```
 
-* System dependencies
+2 - Install webpacker
+```
+$ bundle exec rails webpacker:install
+```
 
-* Configuration
+3 - Setup database
+```
+$ rails db:create 
+$ rails db:migrate
+$ rails db:seed
+```
 
-* Database creation
+4 - Start server
+```
+$ rails s
+```
 
-* Database initialization
+5 - Lauch site
 
-* How to run the test suite
+http://localhost:3000/
 
-* Services (job queues, cache servers, search engines, etc.)
+## Tests
 
-* Deployment instructions
-
-* ...
+```
+$ rspec
+```
