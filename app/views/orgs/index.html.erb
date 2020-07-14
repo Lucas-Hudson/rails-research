@@ -4,63 +4,11 @@
   <div class="row mb-3">
     <div class="col text-center">
       <h1>Orgs</h1>
-      <%= link_to "New Org", new_org_path %>
     </div>
   </div>
 
-  <div class="row justify-content-center mb-3">
-    <div class="col text-center">
-      <%= bootstrap_form_tag url: orgs_path, method: :get do |f| %>
-        <%= f.search_field :place, hide_label: true, value: @place&.gsub("-", " ") %>
-        <div class="row">
-          <% @searchable_categories.each do |c| %>
-            <div class="col text-left">
-              <%= "#{c.name}: #{"(mandatory)" if c.mandatory}" %> <br>
-              <%= collection_check_boxes(nil, :filters, c.searchable_attributes, :slug, :name, include_hidden: false) do |b| %>
-                <%= b.check_box checked: params[:filters]&.split("/")&.flatten&.include?(b.object.slug) %>
-                <%= b.label %> <br>
-              <% end %>
-            </div>
-          <% end %>
-        </div>
-        <div class="mb-3">
-          <%= link_to "Clear", "/search" %>
-          <%= f.submit "Search", name: nil, class: "btn btn-primary ml-3" %>
-          <%= "Results: #{@orgs.total_count}" %>
-        </div>
-      <% end %>
-    </div>
-  </div>
-
-  <div class="row justify-content-center">
-    <div class="col">
-      <table class="table table-striped">
-        <thead>
-        <tr>
-          <th scope="col">Name</th>
-          <th scope="col">CAT 1</th>
-          <th scope="col">CAT 2</th>
-          <th scope="col">CAT 3</th>
-          <th scope="col">CAT 4</th>
-          <th scope="col">Address</th>
-        </tr>
-        </thead>
-        <tbody>
-        <% @orgs.each do |org| %>
-          <tr>
-            <td><%= org.name %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_categories.find_by(name: "CAT 1")).pluck(:name).join(", ") %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_categories.find_by(name: "CAT 2")).pluck(:name).join(", ") %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_categories.find_by(name: "CAT 3")).pluck(:name).join(", ") %></td>
-            <td><%= org.searchable_attributes.where(searchable_attribute_category: @searchable_categories.find_by(name: "CAT 4")).pluck(:name).join(", ") %></td>
-            <td><%= org.place&.address %></td>
-          </tr>
-        <% end %>
-        </tbody>
-      </table>
-      <%= paginate @orgs %>
-    </div>
-  </div>
+  <%= render "searchbar" %>
+  <%= render "results" %>
 </section>
 
 

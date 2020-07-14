@@ -1,5 +1,10 @@
 SearchableAttributeCategory.destroy_all
 Org.destroy_all
+Place.destroy_all
+
+ActiveRecord::Base.connection.tables.each do |t|
+  ActiveRecord::Base.connection.reset_pk_sequence!(t)
+end
 
 4.times do |i|
   sc = SearchableAttributeCategory.create(name: "CAT #{i + 1}", mandatory: i == 3 )
@@ -19,11 +24,13 @@ addresses = [
     "71-43 Kissena Blvd, Queens, NY 11367, États-Unis",
 ]
 
+addresses.each { |a| Place.create(address: a) }
+
 200.times do |i|
   Org.create(
       name: "Org #{i + 1}",
       searchable_attributes: SearchableAttribute.all.sample(10),
-      place_attributes: { address: addresses.sample }
+      place: Place.all.sample
   )
 end
 
