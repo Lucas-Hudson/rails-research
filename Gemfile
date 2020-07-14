@@ -53,4 +53,4 @@ gem 'geocoder'
 gem 'faker'
 gem 'active_record_extended'
 gem 'friendly_id', '~> 5.2.4'
-gem 'kaminari'
+gem "kaminari", ">= 1.2.1"
