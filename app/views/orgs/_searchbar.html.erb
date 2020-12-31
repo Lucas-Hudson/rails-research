@@ -1,20 +1,20 @@
 <div class="row justify-content-center mb-3">
   <div class="col text-center">
     <%= bootstrap_form_tag url: orgs_path, method: :get do |f| %>
-      <%= f.search_field :place, hide_label: true, value: @place&.gsub("-", " ") %>
+      <%= f.search_field :place, id: "autocomplete_address", hide_label: true, value: @place, placeholder: "Entrez une adresse...", autocomplete: false %>
       <div class="row">
         <% @searchable_categories.each do |c| %>
           <div class="col text-left">
             <%= "#{c.name}: #{"(mandatory)" if c.mandatory}" %> <br>
             <%= collection_check_boxes(nil, :filters, c.searchable_attributes, :slug, :name, include_hidden: false) do |b| %>
-              <%= b.check_box checked: params[:filters]&.split("/")&.flatten&.include?(b.object.slug) %>
+              <%= b.check_box checked: params[:filters]&.include?(b.object.slug) %>
               <%= b.label %> <br>
             <% end %>
           </div>
         <% end %>
       </div>
       <div class="mb-3">
-        <%= link_to "Clear", "/search" %>
+        <%= link_to "Clear", root_path %>
         <%= f.submit "Search", name: nil, class: "btn btn-primary ml-3" %>
         <%= "Results: #{@orgs.total_count}" %>
       </div>

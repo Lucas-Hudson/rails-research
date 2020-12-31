@@ -1,0 +1,1501 @@
+address,latitude,longitude
+"111, Avenue de San Severo 01000 Bourg-en-Bresse France",46.2165,5.24814
+"329, Rue Léopold le Hon 01000 Bourg-en-Bresse France",46.1937,5.23437
+"18, Rue des Dîmes 01000 Bourg-en-Bresse France",46.2067,5.2425
+"24, Rue de Montholon 01000 Bourg-en-Bresse France",46.1992,5.20999
+"247, Chemin de Bellevue 01960 Péronnas France",46.1817,5.2079
+"16, Chemin de Camperousse 06130 Grasse France",43.6389,6.95454
+"34, Avenue Henri Matisse 06200 Nice France",43.675,7.2117
+"70, Rue Robert Desnos 06600 Antibes France",43.5972,7.06926
+"27, Route des Hameaux 09000 Saint-Jean-de-Verges France",43.0251,1.61297
+"75, Avenue Fernand Berta 66000 Perpignan France",42.728,2.9016
+"79, Avenue de Croix Sud 11100 Narbonne France",43.1607,2.98726
+"1, Boulevard Gambetta 11100 Narbonne France",43.1822,3.00703
+"19, Rue Pierre Roche 13004 Marseille France",43.3097,5.40235
+"58, Cours Pierre Puget 13006 Marseille France",43.2902,5.37263
+"107, Boulevard Périer 13008 Marseille France",43.2783,5.38014
+"67, Cours Gambetta 13100 Aix-en-Provence France",43.5193,5.46322
+"75, Rue Marcellin Berthelot 13290 Aix-en-Provence France",43.4933,5.37006
+"110, Boulevard Michelet 13600 La Ciotat France",43.1758,5.60269
+"3, Avenue du 11 Novembre 1918 19100 Brive-la-Gaillarde France",45.161,1.53548
+"8, Rue Casanova d'Aracciani 20110 Propriano France",41.6731,8.90332
+"17, Promenade du Pradeau 65000 Tarbes France",43.2323,0.0660022
+"11, Avenue des Églantiers 24660 Coulounieix-Chamiers France",45.1526,0.689497
+"7, Rue Auguste Jouchoux 25000 Besançon France",47.2374,5.98774
+"104, Rue Edouard Isambard 27120 Pacy-sur-Eure France",49.0138,1.38614
+"4, Place de Lorraine 27800 Brionne France",49.1959,0.716844
+"7, Rue Antoine de Saint-Exupéry 30100 Alès France",44.1261,4.08961
+"25, Boulevard de Strasbourg 31000 Toulouse France",43.6074,1.44663
+"48, Avenue de Toulouse 31270 Cugnaux France",43.5393,1.34615
+"92, Chemin de Gabardie 31200 Toulouse France",43.635,1.48246
+"30, Route d'Ondes 31620 Castelnau-d'Estrétefonds France",43.7888,1.34387
+"15, Rue du Gén de Gaulle 33112 Saint-Laurent-Médoc France",45.151,-0.822471
+"56, Avenue de Magudas 33700 Mérignac France",44.8561,-0.650609
+"1112, Avenue de Saint-Jean d'Angély 16100 Cognac France",45.7078,-0.335782
+"2, Rue Patrice Lumumba 34070 Montpellier France",43.5793,3.86104
+"309, Rue Gustave Eiffel 34400 Lunel France",43.6795,4.14996
+"6, Rue du Docteur Schweitzer 38180 Seyssins France",45.1589,5.69711
+"24, Rue Lamartine 38320 Eybens France",45.1574,5.75102
+"35, Rue du Segrat 40440 Ondres France",43.561,-1.45138
+"159, Boulevard Robert Schuman 44300 Nantes France",47.2414,-1.57359
+"10, Rue Laurent Déramez 51100 Reims France",49.2589,4.04283
+"26, Rue Buirette 51100 Reims France",49.2548,4.02582
+"7, Avenue Gambetta 88000 Épinal France",48.1711,6.44818
+"5, Boulevard de Trèves 57070 Metz France",49.1227,6.18835
+"2, Rue Louis Néel 59260 Lezennes France",50.6026,3.13556
+"200, Rue Serval 59500 Douai France",50.3731,3.07248
+"470, Rue Bernard Bordier 60150 Longueil-Annel France",49.4683,2.85769
+"14, Avenue du Stade Nautique 64000 Pau France",43.296,-0.352291
+"10, Place André Emlinger 64100 Bayonne France",43.4922,-1.49369
+"6, Avenue des Forges 65000 Tarbes France",43.2386,0.0863603
+"11, Rue Pierre-Gilles de Gennes 64140 Lons France",43.3031,-0.408017
+"18, Quai Vallière 11100 Narbonne France",43.1807,3.00713
+"104, Rue de Hochfelden 67200 Strasbourg France",48.6026,7.72253
+"16, Avenue de l'Europe 67300 Schiltigheim France",48.6131,7.71226
+"160, Rue Montmartre 75002 Paris France",48.8702,2.3432
+"55, Rue Bellecombe 69006 Lyon France",45.7665,4.86357
+"279, Avenue Jean Jaurès 69150 Décines-Charpieu France",45.7719,4.96517
+"3, Rue du Colonel Chambonnet 69500 Bron France",45.7279,4.92384
+"57, Boulevard du Général de Négrier 72100 Le Mans France",48.01,0.20713
+"3, Rue de Paradis 91350 Paris France",48.8744,2.35474
+"18 bis, Rue d'Anjou 75008 Paris France",48.8706,2.32155
+"46, Rue du Général Foy 75008 Paris France",48.8801,2.31705
+"68, Rue d'Hauteville 75010 Paris France",48.8754,2.3511
+"9, Rue Dupleix 75015 Paris France",48.8518,2.29827
+"3, Cité Ferembach 75017 Paris France",48.8782,2.28925
+"177, Rue Eau de Robec 76000 Rouen France",49.4413,1.1022
+"271, Rue Denis Papin 76360 Barentin France",49.5397,0.958914
+"2, Rue de la Brunette 77140 Nemours France",48.2668,2.6902
+"4, Rue du Général Leclerc 78000 Versailles France",48.7995,2.12473
+"24, Rue Carnot 78000 Versailles France",48.8057,2.12884
+"62, Rue du Maréchal Foch 78000 Versailles France",48.812,2.13551
+"146, Avenue de la Rochelle 79000 Niort France",46.3157,-0.474083
+"33, Rue Jean de la Fontaine 76600 Le Havre France",49.4886,0.113091
+"2, Rue des trois Tarn 81000 Albi France",43.9371,2.16707
+"47, Rue Gimelli 83000 Toulon France",43.1262,5.93369
+"33, Rond-Point Mirasouléou 83100 Toulon France",43.1324,5.98121
+"111, Impasse des Lavandes 84100 Orange France",44.1242,4.82504
+"37, Rue Barthélémy Thimonnier 87280 Limoges France",45.8853,1.27656
+"6, Rue du Bois Sauvage 91000 Évry France",48.6429,2.42356
+"12, Avenue Félix Faure 92000 Nanterre France",48.8853,2.21492
+"45, Allée des Cèdres 92160 Antony France",48.7581,2.2934
+"52, Rue Gallieni 92240 Malakoff France",48.8159,2.30075
+"122, Rue de Villiers 92300 Levallois-Perret France",48.895,2.27481
+"79, Boulevard du Maréchal Joffre 92340 Bourg-la-Reine France",48.7789,2.3137
+"11, Allée de l'Arche 92400 Courbevoie France",48.8951,2.23781
+"14, Place Georges Pompidou 93160 Noisy-le-Grand France",48.838,2.55193
+"31, Avenue Emile Zola 94100 Saint-Maur-des-Fossés France",48.8016,2.48469
+"7-9, Place de la Gare 94100 La Varenne Saint-Hilaire France",48.7943,2.51312
+"22, Rue Alexandre Dumas 75011 Paris France",48.8531,2.39112
+"3, Square des Cèdres 91370 Verrières-le-Buisson France",48.7515,2.27435
+"33, Avenue Charles Emmanuel 94450 Limeil-Brévannes France",48.7451,2.50183
+"41, Allée du Professeur Dubos 95350 Saint-Brice-sous-Forêt France",48.998,2.3633
+"12, Rue des Merisiers 68920 Wettolsheim France",48.0528,7.33472
+"1489, Route des Gorges 83190 Ollioules France",43.1511,5.84715
+"196, Rue Nicéphore Niépce 83400 Hyères France",43.1027,6.1428
+"20, Avenue Médicis 41000 Blois France",47.5839,1.32068
+"62, Avenue Jean Moulin 34500 Béziers France",43.3522,3.23309
+"4, Rue de la Monnaie 54000 Nancy France",48.6942,6.17968
+"11, Avenue de Friedland 75008 Paris France",48.8746,2.30346
+"32, Boulevard Robert Thiboust 77700 Serris France",48.8412,2.78516
+"302, Allée des Loges 91000 Évry France",48.6334,2.42631
+"7, Chemin du Dodin 69570 Dardilly France",45.8183,4.76125
+"25, Rue de Paris 92100 Boulogne-Billancourt France",48.8396,2.24776
+"3, Rue De Cremont 97400 Saint-Denis Réunion",-20.8885,55.4524
+"103, Avenue de la République 59110 La Madeleine France",50.6463,3.07541
+"10, Rue Rosenwald 75015 Paris France",48.8336,2.30603
+"14, Rue de Mantes 92700 Colombes France",48.9087,2.2332
+"53, Boulevard Victor Hugo 78300 Poissy France",48.9284,2.04557
+"47, Rue de la République 69002 Lyon France",45.7615,4.83583
+"12, Cité Falguière 75015 Paris France",48.8409,2.31213
+"148, Rue des Pyrénées 75020 Paris France",48.8598,2.40158
+"6, Rue Maurice Caunes 31200 Toulouse France",43.6398,1.47159
+"13, Rue Pierre Gilles de Gennes 76130 Mont-Saint-Aignan France",49.4748,1.08902
+"32, Rue de Paradis 75010 Paris France",48.8754,2.3517
+"72, Avenue Alfred Borriglione 06100 Nice France",43.7182,7.2617
+"1, Place du Centre 35800 Saint-Briac-sur-Mer France",48.6195,-2.13242
+"42, Rue Voltaire 92800 Puteaux France",48.8795,2.24178
+"11, Rue Jacques Monod 76130 Mont-Saint-Aignan France",49.4771,1.09682
+"72, Avenue Marthe Bruniquel 81100 Castres France",43.6245,2.27185
+"50, Avenue des Caillols 13012 Marseille France",43.3036,5.42678
+",  13300 Salon-de-Provence France",43.6499,5.07028
+"235, Avenue des Chênes Rouges 30100 Alès France",44.1138,4.11517
+"31, Rue Tronchet 75008 Paris France",48.8731,2.3263
+"10, Rue de Méric 57050 Metz France",49.1413,6.16252
+"690, Chemin du Colombier 81800 Couffouleux France",43.7801,1.71481
+"15, Rue Voltaire 92320 Châtillon France",48.8057,2.28416
+"127, Rue Robert Schuman 44800 Saint-Herblain France",47.197,-1.61964
+"6, Rue Lallier 75009 Paris France",48.8816,2.34118
+"8, Avenue du 8 Mai 1945 64100 Bayonne France",43.4758,-1.48438
+"1, Rue du Débarcadère 75017 Paris France",48.8779,2.28746
+"2, Avenue Irène et Frédéric Joliot-Curie 26700 Pierrelatte France",44.3754,4.69809
+"77, Rue Parmentier 69007 Lyon France",45.7452,4.84465
+"11, Rue des Arts et Métiers  Fort-de-France Martinique",14.6045,-61.0433
+"29, Chemin des Perriers 95220 Herblay France",48.9923,2.1547
+"40, Avenue de l'Arche 92400 Courbevoie France",48.8981,2.23843
+"30, Rue du Goujon 67000 Strasbourg France",48.5982,7.78661
+"1, Place de la Comédie 69001 Lyon France",45.7677,4.83537
+"29, Rue de Strasbourg 44000 Nantes France",47.2186,-1.55377
+"2, Rue Frezier 29200 Brest France",48.3915,-4.48483
+"9, Place de l'Hôtel de ville 51100 Reims France",49.2581,4.0317
+"10, Rue Philippe Marcombes 63000 Clermont-Ferrand France",45.7798,3.08656
+"1, Place du Capitole 31000 Toulouse France",43.6038,1.44421
+"7, Avenue Christian Doppler 77700 Serris France",48.8412,2.79224
+"3, Place de l'Hôtel de ville 17000 La Rochelle France",46.1598,-1.15191
+"5, Rue de l'Hôtel de ville 06300 Nice France",43.6959,7.27144
+"140, Avenue du Douze Juillet 1998 13290 Aix-en-Provence France",43.4792,5.39536
+"555, Chemin du Bois 69140 Rillieux-la-Pape France",45.8102,4.89018
+"9, Square Moncey 75009 Paris France",48.8807,2.33034
+"276, Avenue du Douard 13400 Aubagne France",43.2867,5.5989
+"48, Rue de la Chaussée d'Antin 75009 Paris France",48.8739,2.33335
+"5, Rue de Castiglione 75001 Paris France",48.8661,2.32765
+"22, Chemin Auguste Boyer   Réunion",-21.3368,55.6121
+"5, Rue de Copenhague 93290 Tremblay-en-France France",49.0103,2.56333
+"11, Rue Sainte-Colombe 94240 L'Haÿ-les-Roses France",48.777,2.35804
+"13, Rue de Terre Noire 49000 Angers France",47.4616,-0.555882
+"11, Place du Marché 92370 Chaville France",48.8088,2.18894
+"27, Rue Jean Claret 63000 Clermont-Ferrand France",45.7635,3.13728
+"4, Rue Faraday 75017 Paris France",48.8816,2.29274
+"5, Rue Auguste Dubois 21230 Arnay-le-Duc France",47.1315,4.48644
+"53b, Boulevard des Belges 76000 Rouen France",49.444,1.08492
+"7, Rue Louis Néel 51430 Bezannes France",49.2215,4.00224
+"31, Boulevard Dubouchage 06000 Nice France",43.7011,7.2703
+"11, Rue de l'Hôpital Saint-Louis 75010 Paris France",48.8751,2.36501
+"7, Avenue de la Marne 68000 Colmar France",48.0746,7.35328
+"16, Rue des Telliers 51100 Reims France",49.2566,4.02935
+"81, Boulevard Pierre 1er 33110 Le Bouscat France",44.8588,-0.59069
+"67, Montée de Saint-Menet 13011 Marseille France",43.292,5.4952
+"13, Place d'Orion 92360 Meudon France",48.7864,2.22576
+"25, Chemin d'Aussonne 31700 Blagnac France",43.6391,1.38807
+"6, Avenue Château du Loir 92400 Courbevoie France",48.8988,2.25063
+"52, Rue Urbain Leverrier 25000 Besançon France",47.263,6.0047
+"46, Rue Léon Gambetta 31000 Toulouse France",43.6032,1.44218
+"10, Rue de Penthièvre 75008 Paris France",48.8733,2.3166
+"47, Rue Antonin Perrin 69100 Villeurbanne France",45.7552,4.88573
+"1, Place du Général Leclerc 91430 Vauhallan France",48.7345,2.20571
+"43, Rue nationale 37380 Monnaie France",47.5023,0.790507
+"12, Rue du Harlet 41200 Villefranche-sur-Cher France",47.2958,1.7741
+"7, Route de Pin Balma 31130 Balma France",43.6134,1.50212
+"14, Avenue du Marché 44500 La Baule-Escoublac France",47.2853,-2.39462
+"2214, Boulevard de la Lironde 34980 Montferrier-sur-Lez France",43.6513,3.86418
+"21, Rue d'Algérie 69001 Lyon France",45.7677,4.83229
+"256, Boulevard Saint-Denis 92400 Courbevoie France",48.9039,2.27785
+"76, Boulevard Emile Delmas 17000 La Rochelle France",46.1612,-1.21316
+"66, Avenue des Champs-Élysées 75008 Paris France",48.8709,2.30543
+"21, Rue de la Tillole 64100 Bayonne France",43.4903,-1.45414
+"16, Rue Claude Bernard 91260 Juvisy-sur-Orge France",48.6958,2.372
+"11, Rue Paul Chatrousse 92200 Neuilly-sur-Seine France",48.8865,2.26056
+"68, Quai de Paludate 33800 Bordeaux France",44.8272,-0.551303
+"17, Rue Sainte-Croix de la Bretonnerie 75004 Paris France",48.8581,2.35623
+"11, Avenue des Trois Lucs 13012 Marseille France",43.3108,5.45923
+"27, Avenue du Général de Gaulle 95230 Soisy-sous-Montmorency France",48.9848,2.29963
+"118, Boulevard Gabriel Péri 93110 Rosny-sous-Bois France",48.8789,2.47267
+"9, Rue Colette Besson 33140 Villenave-d'Ornon France",44.7779,-0.535199
+"113, Rue de la République 13002 Marseille France",43.3044,5.36727
+"6, Rue René Cassin 33300 Bordeaux France",44.8764,-0.57581
+"104, Boulevard Victor Hugo 93400 Saint-Ouen France",48.9068,2.32505
+"71, Avenue Victor Hugo 75116 Paris France",48.8703,2.2873
+"167, Promenade des Anglais 06200 Nice France",43.6884,7.24019
+"27, Avenue de l'Île de France 33370 Artigues-près-Bordeaux France",44.8464,-0.496587
+"112, Avenue du Général de Gaulle 93110 Rosny-sous-Bois France",48.8803,2.47909
+"250, Avenue du Président Wilson 93210 Saint-Denis France",48.9171,2.35806
+"90, Allée de Pré Mayen 38330 Montbonnot-Saint-Martin France",45.2185,5.80409
+"21c, Rue Jacques Cartier 78960 Voisins-le-Bretonneux France",48.7599,2.05714
+"16, Avenue André Rouy 94350 Villiers-sur-Marne France",48.8231,2.54646
+"18, Rue de la Commanderie 54000 Nancy France",48.687,6.17193
+"83, Boulevard de l'Europe 13127 Vitrolles France",43.4213,5.26791
+"831, Route d'Uzès 30100 Alès France",44.1124,4.10763
+"2, Rue du Cap Vert 21800 Quetigny France",47.313,5.09274
+"1, Rue Troyon 75017 Paris France",48.8755,2.29585
+"9, Rue Léon Frot 75011 Paris France",48.8538,2.38781
+"9, Cours Saint-Vincent 92130 Issy-les-Moulineaux France",48.8206,2.25353
+"3, Rue Victor Schoelcher 29900 Concarneau France",47.9031,-3.90626
+"39, Avenue Félix Faure 75015 Paris France",48.8412,2.28859
+"192, Rue du General Bonnier  La Plaine des Cafres Réunion",-21.2506,55.5364
+"10, Rue Saulnier 75009 Paris France",48.875,2.34456
+"580, Rue Barthélémy Thimonier 50180 Agneaux France",49.1127,-1.13983
+"8, Rue Jean Loret 50500 Carentan France",49.3034,-1.24173
+"38, Rue de la Commune de Paris 93300 Aubervilliers France",48.9115,2.38057
+"12, Rue Victor Hugo 95200 Sarcelles France",48.9959,2.38064
+"20, Rue du Cap Vert 21800 Quetigny France",47.3105,5.09321
+"50, Boulevard du Doyenné 49100 Angers France",47.49,-0.534883
+"167, Rue de Beaugé 72000 Rouillon France",48.0119,0.153958
+"3, Avenue du Professeur Jean Rouxel 44470 Carquefou France",47.299,-1.50291
+"242, Rue du Faubourg Saint-Antoine 75012 Paris France",48.8491,2.38966
+"26, Rue Colonel Dumont 38000 Grenoble France",45.1815,5.71953
+"11, Rue du Queirelet 13480 Cabriès France",43.461,5.3523
+"95, Boulevard Berthier 75017 Paris France",48.8857,2.29436
+"132, Rue Moslard 92700 Colombes France",48.9109,2.23969
+"4, Rue de Copenhague 67300 Schiltigheim France",48.6104,7.71703
+"6, Rue Paul Sabatier 31270 Cugnaux France",43.5555,1.36832
+"266, Chemin de la Bayette 83220 Le Pradet France",43.1083,6.03844
+"10, Rue du Lieutenant Parayre 13290 Aix-en-Provence France",43.4947,5.36872
+"54, Avenue de Versailles 75016 Paris France",48.8482,2.27419
+"71, Rue Enguerrand 80090 Amiens France",49.8835,2.31854
+"5, Cours Gambetta 65000 Tarbes France",43.2317,0.073746
+"12, Rue Portalis 75008 Paris France",48.8776,2.31991
+"13, Rue de la Petite Ferme 77360 Vaires-sur-Marne France",48.8713,2.64506
+"189, Chemin de Faissole 06250 Mougins France",43.5833,6.9986
+"173, Avenue de Versailles 75016 Paris France",48.8404,2.26485
+"16, Rue Bartholdi 52000 Chaumont France",48.1126,5.13293
+"2, Avenue de la Violette 13100 Aix-en-Provence France",43.5347,5.44603
+"22, Rue Paul Baudot  Basse-Terre Guadeloupe",15.998,-61.7318
+"109, Quai des États-Unis 06300 Nice France",43.6954,7.26937
+"65, Rue Baron le Roy 75012 Paris France",48.8351,2.38885
+"2, Rue d'Anjou 76240 Le Mesnil-Esnard France",49.4119,1.1529
+"340, Cours Gambetta 84300 Cavaillon France",43.8392,5.03793
+"1010, Avenue Marcel Pagnol 84110 Vaison-la-Romaine France",44.2466,5.09212
+"44, Avenue Charles de Gaulle 84130 Le Pontet France",43.9568,4.84797
+"35, Rue des Tulipes 68170 Rixheim France",47.7504,7.38921
+"180, Rue du Genevois 73000 Chambéry France",45.5888,5.92349
+"47, Rue du Val Vert 74600 Seynod France",45.8906,6.11024
+"11, Avenue Pierre Cambres 66100 Perpignan France",42.6911,2.90029
+"360, Allée Henri Hugoniot 25600 Brognard France",47.522,6.86655
+"111, Rue Victor Hugo 92270 Bois-Colombes France",48.9187,2.26892
+"9, Rue des Aulnes 69410 Champagne-au-Mont-d'Or France",45.8041,4.77797
+"208, Route des Tattes de Borly 74380 Cranves-Sales France",46.1812,6.2836
+"2, Rue Jacques Prévert 69140 Rillieux-la-Pape France",45.8158,4.90084
+"142, Rue de Rivoli 75001 Paris France",48.8604,2.34288
+"151, Rue Amelot 75011 Paris France",48.8655,2.36619
+"1, Rue Pierre Rectoran 64100 Bayonne France",43.4854,-1.47656
+"345, Avenue du Prado 13008 Marseille France",43.2698,5.38897
+"12 Ter, Rue Louise Michel 92300 Levallois-Perret France",48.8877,2.28576
+"10, Allée des Artilleurs 42000 Saint-Étienne France",45.4637,4.37816
+"16, Rue du Colisée 75008 Paris France",48.8707,2.30865
+"7, Rue Albert Ferrasse 47550 Boé France",44.1808,0.628297
+"39, Rue d'Aguesseau 94490 Ormesson-sur-Marne France",48.7857,2.53466
+"31, Rue des Marottes 78570 Andrésy France",48.9691,2.04261
+"53, Boulevard de la Reine 78000 Versailles France",48.8095,2.12933
+"67, Rue Gaultier 92400 Courbevoie France",48.8995,2.24475
+"9, Avenue Camille Claudel 95240 Cormeilles-en-Parisis France",48.9597,2.19441
+"21b, Boulevard Gabriel Guist'Hau 44000 Nantes France",47.2166,-1.56682
+"110, Boulevard du Front de Mer 97460 Saint-Paul Réunion",-20.9984,55.2793
+"124, Rue du Fort du Rietz 62310 Fruges France",50.5177,2.11425
+"8, Rue du Château de Chessy 77144 Montévrain France",48.874,2.75257
+"8, Rue Meriel 93100 Montreuil France",48.8602,2.43794
+"22, Rue des Vergers 77310 Saint-Fargeau-Ponthierry France",48.5308,2.55493
+"1803, Chemin de Matras 82000 Montauban France",44.0376,1.37628
+"607, Rue Félix Trombe 66100 Perpignan France",42.6664,2.90692
+"90, Rue Raynouard 75016 Paris France",48.8535,2.27653
+"248, Avenue des Paluds 13400 Aubagne France",43.2867,5.60403
+"4, Rue Alphonse Karr 06000 Nice France",43.6989,7.2671
+"34, Route de Pitoys 64600 Anglet France",43.464,-1.51568
+"98, Quai de la Fosse 44000 Nantes France",47.2079,-1.57108
+"31, Impasse Pao 83110 Sanary-sur-Mer France",43.1263,5.8155
+"863, Chemin de la Traverse 30900 Nîmes France",43.8173,4.33508
+"35, Boulevard Richard Wallace 92800 Puteaux France",48.8801,2.23908
+"7, Boulevard Sampiero 20000 Ajaccio France",41.9241,8.73885
+"163, Rue du Faubourg Saint-Honoré 75008 Paris France",48.8746,2.30604
+"18, Rue Pastorelli 06000 Nice France",43.7017,7.27289
+"12, Rue de Castiglione 75001 Paris France",48.866,2.32827
+"109, Avenue Charles de Gaulle 92200 Neuilly-sur-Seine France",48.881,2.27038
+"17, Rue Wolfgang Amadeus Mozart 77185 Lognes France",48.8353,2.64204
+"12, Avenue de la République 93300 Aubervilliers France",48.9129,2.3828
+"100, Rue Alfred Sauvy 34470 Lattes France",43.5826,3.934
+"49, Boulevard Jeanne d'Arc 59500 Douai France",50.3652,3.06839
+"4, Rue Thiers 02100 Saint-Quentin France",49.8538,3.28124
+"32, Rue Jeanne d'Arc 51100 Reims France",49.255,4.02513
+"109, Chemin Creve Coeur (Rd 5)   Réunion",-21.0168,55.2877
+"264, Rue Garibaldi 69003 Lyon France",45.7539,4.85302
+"14, Rue des Métiers 40230 Saint-Vincent-de-Tyrosse France",43.6641,-1.28225
+"4, Rue Gaston Castel 13016 Marseille France",43.3574,5.33694
+"8, Rue de Montlean 51210 Montmirail France",48.8697,3.54273
+"29, Rue de Belfort 67100 Strasbourg France",48.5696,7.74749
+"18, Avenue Émile Didier 05000 Gap France",44.5648,6.09134
+"4, Boulevard du Mail 89100 Sens France",48.1991,3.28498
+"15, Avenue Labienus 70300 Luxeuil-les-Bains France",47.8179,6.37451
+"231, Rue de la Benauge 33100 Bordeaux France",44.8414,-0.546575
+"1, Rue Pasteur 95150 Taverny France",49.0258,2.22095
+"117, Rue nationale 59700 Marcq-en-Barœul France",50.6632,3.07626
+"12, Rue du Compagnonnage 30133 Les Angles France",43.9605,4.75744
+"34, Rue du 35ÈME Régiment d'Aviation 69500 Bron France",45.7354,4.93172
+"116, Chemin Sainte-Christine 83210 Solliès-Pont France",43.1989,6.04384
+"24, Rue des Bessards 26600 Tain-l'Hermitage France",45.0717,4.83579
+"14, Rue du Moulin Paillasson 42300 Roanne France",46.0351,4.06261
+"9, Impasse Lise de Harme 95350 Saint-Brice-sous-Forêt France",48.9907,2.35887
+"12, Rue de Milan 75009 Paris France",48.879,2.3283
+"15, Avenue Jean Moulin 39000 Lons-le-Saunier France",46.6729,5.55667
+"2, Rue de l'Union 93130 Noisy-le-Sec France",48.895,2.45948
+"34, Route de Haguenau Marienthal 67500 Haguenau France",48.7802,7.81629
+"12, Rue de Clocheville 37000 Tours France",47.3923,0.68688
+"424, Rue de Lisbonne 83500 La Seyne-sur-Mer France",43.1084,5.85387
+"26, Place du Campanil 38630 Corbelin France",45.6077,5.54475
+"7, Rue du Marché Saint-Honoré 75001 Paris France",48.8661,2.33107
+"3, Avenue de l'Opéra 75001 Paris France",48.8641,2.33489
+"3, Rue du 8 Mai 1945 42160 Andrézieux-Bouthéon France",45.5282,4.25572
+"21, Quai Antoine Riboud 69002 Lyon France",45.742,4.81911
+"17a, Rue de la Presse 42000 Saint-Étienne France",45.4573,4.39779
+"69, Rue Saint-Simon 42000 Saint-Étienne France",45.4538,4.36831
+"91, Rue Simon Vollant 59130 Lambersart France",50.664,3.02634
+"7, Boulevard de Touraine 49300 Cholet France",47.0715,-0.856003
+"3, Rue Paul Pouchain 59280 Armentières France",50.6828,2.87908
+"161, Avenue Gabriel Péri 91700 Sainte-Geneviève-des-Bois France",48.6476,2.32647
+"8, Rue Thalès 33700 Mérignac France",44.8333,-0.67144
+"9, Rue Boirot 63000 Clermont-Ferrand France",45.7798,3.08523
+"32, Rue de l'Estérel 31400 Toulouse France",43.5449,1.45886
+"1, Allée Andromède 64600 Anglet France",43.4972,-1.50751
+"9, Rue Ernest Hiolle 59300 Valenciennes France",50.358,3.53585
+"70, Rue Jean Bleuzen 92170 Vanves France",48.8227,2.29606
+"3, Rue Valentin Chabrand 05000 Gap France",44.5558,6.07369
+"204, Avenue de Colmar 67100 Strasbourg France",48.5572,7.74728
+"17, Avenue de l'Europe 67300 Schiltigheim France",48.6134,7.71711
+"5, Rue Saint-Jacques 67150 Erstein France",48.4193,7.6586
+"15, Route de Colmar 68920 Wintzenheim France",48.0688,7.30348
+"4, Avenue de la Division Leclerc 91290 Arpajon France",48.5964,2.24588
+"35, Rue du Sentier 75002 Paris France",48.8699,2.34602
+"133, Avenue André Malraux 54600 Villers-lès-Nancy France",48.6716,6.15314
+"9, Rue Robert Schuman 34430 Saint-Jean-de-Védas France",43.5683,3.83677
+"16, Boulevard Winston Churchill 21000 Dijon France",47.3527,5.05376
+"1, Allée du Luberon 31850 Montrabé France",43.6446,1.54569
+"10, Rue Andre Chenier 91300 Massy France",48.7371,2.27621
+"38, Rue de la Dutee 44800 Saint-Herblain France",47.2254,-1.64557
+"6, Rue Saint-John Perse 21000 Dijon France",47.3527,5.05143
+"30, Boulevard de la Fédération 13004 Marseille France",43.3116,5.40265
+"11, Impasse Alexis Trinquet 91000 Évry France",48.6215,2.44764
+"3, Rue Antonio Vivaldi 78100 Saint-Germain-en-Laye France",48.8937,2.06822
+"23, Rue Maréchal Foch 11400 Castelnaudary France",43.3176,1.95375
+"97122, Boulevard du Marquisat de Houelbourg  Baie Mahault Guadeloupe",16.2425,-61.5581
+"122, Rue de Tourcoing 59100 Roubaix France",50.7045,3.17175
+"5, Rue du Portalet 31240 L'Union France",43.6537,1.4812
+"30, Rue Chabrely 33100 Bordeaux France",44.8414,-0.555069
+"42, Chemin d'Ornon 33610 Canéjan France",44.771,-0.644859
+"8, Rue Bourgneuf 42000 Saint-Étienne France",45.4459,4.38438
+"31, Rue des Arizonas 30130 Pont-Saint-Esprit France",44.262,4.64423
+"4, Allée Faidherbe 93320 Livry-Gargan France",48.9107,2.52063
+"107, Avenue Michel Crépeau 17000 La Rochelle France",46.1491,-1.1583
+"1, Rue d'Estienne d'Orves 56100 Lorient France",47.7327,-3.37427
+"220, Avenue Victor Hugo 69140 Rillieux-la-Pape France",45.8197,4.89109
+"12, Rue le Châtelier 75017 Paris France",48.8859,2.29588
+"1, Rue Louis Vicat 81000 Albi France",43.931,2.18514
+"18, Rue de l'Amiral Cecille 76100 Rouen France",49.4337,1.08268
+"42, Rue Henri Becquerel 97122 Baie-Mahault ",16.2418,-61.5659
+"3, Rue du 11 Novembre 38200 Vienne France",45.5201,4.86971
+"55, Allée Cavalière 74120 Megève France",45.8597,6.61612
+"14, Rue Henault 76130 Mont-Saint-Aignan France",49.4567,1.09227
+"31, Avenue Jean Médecin 06000 Nice France",43.702,7.2669
+"16, Rue de la République 69002 Lyon France",45.7644,4.83555
+"100, Boulevard Sadi Carnot 06110 Le Cannet France",43.5673,7.01595
+"2, Rue Marius et Ary Leblond   Réunion",-21.0094,55.2702
+"6, Allée du Donjon 93160 Noisy-le-Grand France",48.8317,2.55525
+"49, Rue de Maubeuge 75009 Paris France",48.8792,2.34717
+"21, Boulevard de l'Épervière 49000 Écouflant France",47.5066,-0.504824
+"72, Rue Saint-Pallais 17100 Saintes France",45.7451,-0.620015
+"5, Place du Minage 17800 Pons France",45.5804,-0.547566
+"21, Rue Pierre Loti 17200 Royan France",45.6265,-1.03113
+"17, Rue Madame de Sévigné 08000 Charleville-Mézières France",49.7712,4.71742
+"112, Avenue de la République 75011 Paris France",48.8632,2.38462
+"106, Rue de Montreuil 94300 Vincennes France",48.8514,2.43481
+"34, Rue de l'Amiral Mouchez 75013 Paris France",48.824,2.34139
+"10, Rue Raymond Poincaré 54000 Nancy France",48.6909,6.17439
+"50, Rue Chanzy 28000 Chartres France",48.439,1.48499
+"10, Boulevard Malesherbes 75008 Paris France",48.8715,2.32284
+"29, Rue Léon Gaumont 44700 Orvault France",47.2609,-1.64988
+"16, Rue Jean XXIII 26400 Crest France",44.7304,5.02992
+"8, Rue de Bezons 92400 Courbevoie France",48.8929,2.25328
+"6, Avenue Victor Hugo 13160 Châteaurenard France",43.8828,4.85382
+"9, Chemin des Dames 30200 Bagnols-sur-Cèze France",44.1603,4.62025
+"16, Rue du Président Wilson 13200 Arles France",43.676,4.626
+"46, Rue Cardinet 75017 Paris France",48.8826,2.30619
+"27, Avenue du Port 13230 Port-Saint-Louis-du-Rhône France",43.3888,4.80235
+"58, Cours Hyacinthe Bellon 13990 Fontvieille France",43.7269,4.71127
+"1043, Avenue de Croupillac 30100 Alès France",44.1305,4.10651
+"5151, Avenue du Golf 34670 Baillargues France",43.6524,4.00615
+"10, Rue Jean Perrin 17000 La Rochelle France",46.1404,-1.15882
+"6, Boulevard Denis Papin 91130 Ris-Orangis France",48.6456,2.41123
+"14, Rue Henri le Châtelier 66100 Perpignan France",42.691,2.90349
+"2, Rue d'Uzès 75002 Paris France",48.8705,2.34551
+"6, Rue Anne Gacon 13016 Marseille France",43.3647,5.33464
+"12, Rue Principale 67870 Bischoffsheim France",48.4877,7.49539
+"43, Boulevard Charles de Gaulle 92700 Colombes France",48.9106,2.23379
+"4, Avenue du Marechal Foch 95100 Argenteuil France",48.9466,2.25666
+"61, Grande Rue 10240 Nogent-sur-Aube France",48.4937,4.31
+"71, Rue de Paris 94220 Charenton-le-Pont France",48.821,2.41406
+"11, Avenue de Chavailles 33520 Bruges France",44.8747,-0.579237
+"21, Rue Clément Marot 75008 Paris France",48.8682,2.3022
+"1, Bvd des Noyers Pompons 89100 Sens France",48.1994,3.31934
+"20, Rue Port des Fossés 77130 Montereau-Fault-Yonne France",48.3884,2.95227
+"62, Rue de la Cressonnière 31270 Cugnaux France",43.5321,1.35631
+"18, Chemin de la Briqueterie 33610 Canéjan France",44.7775,-0.663057
+"11, Allée des Camélias 44500 La Baule-Escoublac France",47.2859,-2.39079
+"14, Rue de la Félicité 75017 Paris France",48.8868,2.31018
+"20, Rue de la République 06500 Menton France",43.7753,7.50229
+"289, Rue du Luxembourg 83500 La Seyne-sur-Mer France",43.1124,5.85133
+"29, Place du Jeu de Battoir 80230 Saint-Valery-sur-Somme France",50.1879,1.62943
+"65, Rue des Cèdres 82000 Montauban France",44.0044,1.39834
+"18, Avenue de Joinville 94340 Joinville-le-Pont France",48.8116,2.46601
+"8, Boulevard du Zénith 44800 Saint-Herblain France",47.2331,-1.62763
+"15, Rue Prosper Ferradou 31700 Blagnac France",43.6346,1.3967
+"2, Rue des Frères Lumière 44650 Legé France",46.8938,-1.60097
+"22, Route d'Espagne 31100 Toulouse France",43.5777,1.42359
+"115, Rue Rivay 92300 Levallois-Perret France",48.9003,2.28469
+"268, Avenue de la Couronne des Prés 78680 Épône France",48.961,1.82332
+"418, Rue du Mas de Verchant 34000 Montpellier France",43.6194,3.91304
+"2, Rue Jean Rostand 91400 Orsay France",48.7103,2.17557
+"37, Chemin de la Vieille Usine  L'Eperon Réunion",-21.045,55.2556
+"7, Place Blonay 01800 Meximieux France",45.9049,5.1906
+"1, Rue Mozart 59229 Téteghem France",51.0321,2.42272
+"9, Rue de l'Abbaye 62500 Saint-Omer France",50.7503,2.26323
+"10, Allée de la Connaissance 77127 Lieusaint France",48.6209,2.53812
+"135, Boulevard Pereire 75017 Paris France",48.884,2.29615
+"7, Allée des Synagots 35830 Betton France",48.1843,-1.66057
+"3, Square du Roule 75008 Paris France",48.8765,2.29954
+"6, Rue Jean Goujon 75008 Paris France",48.8667,2.30936
+"11, Boulevard Gambetta 11100 Narbonne France",43.1827,3.00729
+"3, Rue de l'Industrie 38160 Saint-Marcellin France",45.1368,5.32252
+"1, Allée des Nymphéas 31240 L'Union France",43.6555,1.47652
+"6, Rue de Saint-Brice 51100 Reims France",49.2569,4.01972
+"18, Rue du Rhône 67100 Strasbourg France",48.5498,7.73706
+"28, Rue de Solférino 92100 Boulogne-Billancourt France",48.8302,2.24464
+"28, Rue d'Amiens 60200 Compiègne France",49.4228,2.82111
+"301, Rue Clément Ader 27930 Évreux France",49.0149,1.18296
+"10, Rue de Sotteville 76100 Rouen France",49.4251,1.08828
+"22, Rue du Gén de Gaulle 27340 Pont-de-l'Arche France",49.3042,1.15229
+"17b, Rue de la Presse 42000 Saint-Étienne France",45.4568,4.3981
+"44, Route de Brach 33480 Sainte-Hélène France",44.9688,-0.886386
+"3, Rue Auguste Bartholdi 78420 Carrières-sur-Seine France",48.9105,2.16811
+"4B, Rue des Frères Fâché 59580 Aniche France",50.3352,3.23969
+"21, Rue Andromède 74650 Chavanod France",45.8983,6.08327
+"4, Villa Beausoleil 10000 Troyes France",48.3091,4.05224
+"14B, Rue Torricelli 75017 Paris France",48.8807,2.292
+"381, Boulevard du Président Wilson 33200 Bordeaux France",44.8529,-0.594407
+"12, Avenue de Lingenfeld 77200 Torcy France",48.8491,2.65056
+"3, Rue Pajol 77000 Melun France",48.5477,2.65229
+"6, Boulevard Montmartre 75009 Paris France",48.8718,2.34261
+"1, Place Massena 06000 Nice France",43.6974,7.26959
+"2, Rue des Fauvettes 94350 Villiers-sur-Marne France",48.8259,2.54253
+"28, Rue du Général Lemaire 55100 Verdun France",49.1666,5.39442
+"5, Rue de l'Atlas 75019 Paris France",48.8745,2.37569
+"27, Avenue de l'Opéra 75001 Paris France",48.8668,2.33363
+"2, Rue de Stockholm 13127 Vitrolles France",43.4346,5.24128
+"745, Boulevard des Ventadouiro 13300 Salon-de-Provence France",43.6269,5.09658
+"140b, Rue de Rennes 75006 Paris France",48.8456,2.32502
+"8, Rue des Frères Lumière 44119 Treillières France",47.2801,-1.58692
+"72, Rue de Champigny 94430 Chennevières-sur-Marne France",48.7957,2.52562
+"209, Route de Bellet 06200 Nice France",43.7045,7.22461
+"193, D572 50400 Granville France",48.8218,-1.57151
+"138, Avenue Victor Hugo 75116 Paris France",48.8674,2.27957
+"28, Rue de Sarliève 63800 Cournon-d'Auvergne France",45.7403,3.16263
+"7, Rue Jean Monnet 67201 Eckbolsheim France",48.588,7.6871
+"180, Rue des Entrepreneurs 04100 Manosque France",43.822,5.79386
+"10, Rue des Moines 67500 Haguenau France",48.821,7.78691
+"4, Rue de Phalsbourg 67260 Sarre-Union France",48.9389,7.08723
+"26, Rue du Général Gallieni 67600 Sélestat France",48.2574,7.44982
+"28 bis, Rue Jean Moulin 93470 Coubron France",48.9088,2.58077
+"126, Boulevard Haussmann 75008 Paris France",48.8752,2.31763
+"3, Avenue d'Albigny 74000 Annecy France",45.9031,6.13417
+"638, Avenue de la Libération 13160 Châteaurenard France",43.8849,4.86427
+"429, Rue de l'Industrie 34000 Montpellier France",43.5869,3.88363
+"5, Avenue de la Gare 67150 Erstein France",48.4207,7.65646
+"10, Avenue de la Croix Rouge 84000 Avignon France",43.934,4.8257
+"28, Rue des Vignes de Bachelard 74140 Douvaine France",46.31,6.3087
+"52, Avenue Roger Salengro 94500 Champigny-sur-Marne France",48.8187,2.48941
+"228, Rue Francis de Pressensé 69100 Villeurbanne France",45.7706,4.88865
+"22, Rue Carnot 95230 Soisy-sous-Montmorency France",48.9879,2.29831
+"1, Avenue Pierre Pflimlin 68390 Sausheim France",47.7791,7.38099
+"11, Avenue du Docteur Victor Robini 06200 Nice France",43.6827,7.20074
+"10, Rue Reyer 31200 Toulouse France",43.6209,1.42698
+"26, Rue de Soultz 68000 Colmar France",48.0726,7.34403
+"32, Rue de la Vrière 44240 La Chapelle-sur-Erdre France",47.2826,-1.55269
+"19, Rue Marcel Dassault 44980 Sainte-Luce-sur-Loire France",47.2724,-1.47083
+"252, Avenue du Mont Ventoux 84450 Jonquerettes France",43.9526,4.94039
+"4, Boulevard de France 77380 Combs-la-Ville France",48.6478,2.55911
+"201, Route de Labarthe 31860 Villate France",43.46,1.37746
+"58, Boulevard Marcel Pagnol 06130 Grasse France",43.6442,6.94698
+"3, Centre d'Affaire la Tannerie 57072 Saint-Julien-lès-Metz France",49.1274,6.19493
+"7, Rue Albert 1er 36000 Châteauroux France",46.8113,1.69804
+"54, Allée d'Azur 83600 Fréjus France",43.453,6.75256
+"226, Rue Georges Besse 30000 Nîmes France",43.8202,4.36699
+"8, Rue du Nord 58400 La Charité-sur-Loire France",47.1783,3.01936
+"10, Rue Saint-Barthélémy 77000 Melun France",48.5406,2.65736
+"199, Rue Helene Boucher 34170 Castelnau-le-Lez France",43.6232,3.91321
+"173, Route du Général de Gaulle 67800 Schiltigheim France",48.6132,7.7328
+"6, Boulevard Roger Salengro 38100 Grenoble France",45.1754,5.71118
+"3, Rue des Tiredous 64000 Pau France",43.33,-0.358986
+"13, Rue de l'Ouvrage À Cornes 17000 La Rochelle France",46.1552,-1.14534
+"9, Rue du Gros Caillou 75007 Paris France",48.8572,2.30283
+"50, Rue Barthelemy Danjou 92100 Boulogne-Billancourt France",48.8319,2.24883
+"14, Rue de l'Aqueduc 75010 Paris France",48.8804,2.35989
+"25, Rue des Filles du Calvaire 75003 Paris France",48.8631,2.36629
+"8, Rue de Nantes 75019 Paris France",48.8914,2.38319
+"2, Rue de Paris 97400 Saint-Denis Réunion",-20.8794,55.4478
+"59, Boulevard Hippol Mege Mouries 83300 Draguignan France",43.534,6.459
+"91 bis, Rue Emile Fontanier 78320 Le Mesnil-Saint-Denis France",48.7444,1.94762
+"4, Place Etienne Chevallier 77000 Melun France",48.5358,2.6587
+"29, Rue de la Prairie 78120 Rambouillet France",48.6441,1.83379
+"10, Place de la Joliette 13002 Marseille France",43.3057,5.36595
+"77, Rue Jean Jaurès 92300 Levallois-Perret France",48.8933,2.29448
+"7, Allée du Pérou 38610 Gières France",45.1909,5.77938
+"8, Rue Madeleine Brès 25000 Besançon France",47.2428,5.98086
+"2, Avenue du 1er Mai 91120 Palaiseau France",48.7137,2.25734
+"152, Grande Rue de Saint Clair 69300 Caluire-et-Cuire France",45.7908,4.85967
+"11, Rue Boudreau 75009 Paris France",48.8721,2.3286
+"26, Rue Cambacérès 75008 Paris France",48.8738,2.31806
+"97, Boulevard Charles de Gaulle 92700 Colombes France",48.9129,2.23067
+"3, Rue Marconi 57070 Metz France",49.1012,6.21533
+"6, Rue Francis Meilland 49000 Angers France",47.4508,-0.549199
+"12, Place de la République 56000 Vannes France",47.6567,-2.76052
+"50, Rue Tudelle 45100 Orléans France",47.893,1.90062
+"30, Avenue de Garossos 31700 Beauzelle France",43.6698,1.36749
+"88, Avenue Maréchal Foch 77590 Bois-le-Roi France",48.4695,2.70622
+"221, Avenue Louis Barthou 33200 Bordeaux France",44.8524,-0.618441
+"32, Avenue du Général de Gaulle 33950 Lège-Cap-Ferret France",44.7447,-1.18109
+"10, Rue des Grands Prés 03100 Montluçon France",46.3364,2.60097
+"30, Rue du Lieutenant Lecomte 78510 Triel-sur-Seine France",48.9773,2.01214
+"164, Rue Blomet 75015 Paris France",48.8376,2.29409
+"15, Rue du Parc 67205 Oberhausbergen France",48.6018,7.68224
+"2, Rue Jean Jaurès 78100 Saint-Germain-en-Laye France",48.8939,2.08492
+"3, Rue Cavallotti 75018 Paris France",48.886,2.32851
+"7, Rue Hégésippe Moreau 75018 Paris France",48.887,2.32719
+"9, Rue de la Baie   Réunion",-21.0097,55.2681
+"2, Rue de Paris 95270 Chaumontel France",49.1272,2.42932
+"18, Boulevard Lafayette 34400 Lunel France",43.6764,4.13236
+"10, Rue des Fusiliers Marins 59140 Dunkerque France",51.0325,2.37207
+"82, Rue de la Victoire 75009 Paris France",48.8752,2.33181
+"13, Place Alphonse Fiquet 80000 Amiens France",49.891,2.30624
+"95, Avenue du Bord des Eaux 62110 Hénin-Beaumont France",50.4135,2.96959
+"16, Rue Lapeyrere 64300 Orthez France",43.4882,-0.770691
+"7, Route de l'Aurière 85500 Les Herbiers France",46.856,-1.04779
+"591, Avenue Saint-Just 77000 Vaux-le-Pénil France",48.5344,2.68466
+"20, Avenue du Maréchal Juin 11000 Carcassonne France",43.212,2.37311
+"19, Les Piverts 78170 La Celle-Saint-Cloud France",48.8522,2.15334
+"2, Rue du Suffrage Universel 77185 Lognes France",48.8377,2.63135
+"88, Rue de Rivoli 75004 Paris France",48.8583,2.34934
+"26, Boulevard des Dames 13002 Marseille France",43.3022,5.37257
+"4, Chemin de la Ponsarde 13700 Marignane France",43.4105,5.2138
+"167, Route de Beaugé 72000 Le Mans France",48.0119,0.153958
+"30, Allée du Moulin Féret 50400 Yquelon France",48.8375,-1.55594
+"13, Rue André Ducatez 26200 Montélimar France",44.5578,4.74462
+"31, Avenue Mozart 77410 Charny France",48.9754,2.76016
+"116, Rue des Pyrénées 75020 Paris France",48.8576,2.40434
+"29, Rue Nassau  Pointe-à-Pitre Guadeloupe",16.2395,-61.5376
+"6, Rue de L Abattoir  Le Lamentin Martinique",14.6167,-61.0029
+"104, 6ème Avenue 93290 Tremblay-en-France France",48.9649,2.57562
+"440, Rue James Watt 66100 Perpignan France",42.6646,2.91124
+"10, Rue Roger Bacon 75017 Paris France",48.8826,2.28976
+"2, Avenue Jean Rieux 31400 Toulouse France",43.5976,1.45795
+"2, Rue Pasteur 78600 Le Mesnil-le-Roi France",48.9365,2.12462
+"79, Rue Gambetta 92500 Rueil-Malmaison France",48.8811,2.1956
+"72, Boulevard de Strasbourg 31000 Toulouse France",43.6104,1.4442
+"619, Rue Favre de Saint-Castor 34080 Montpellier France",43.6194,3.82375
+"25, Rue Mickael Gorbatchev   Réunion",-21.2787,55.5181
+"31, Rue des Acacias 88190 Golbey France",48.1942,6.44804
+"12, Rue Gilbert Romme 63000 Clermont-Ferrand France",45.7676,3.10144
+"195, Rue Lavoisier 77240 Cesson France",48.551,2.60121
+"34, Rue Maurice Trintignant 66000 Perpignan France",42.699,2.93867
+"19, Rue du Rocher 75008 Paris France",48.8763,2.3223
+"19, Rue Alphonse Daudet 66600 Rivesaltes France",42.763,2.87048
+"20, Rue Louis Bertillon 34500 Béziers France",43.3428,3.23149
+"43, Rue du Rocher 75008 Paris France",48.8778,2.32028
+"6, Rue Pierre Gilles de Gennes 76130 Mont-Saint-Aignan France",49.4743,1.08958
+"22, Rue Robert 13007 Marseille France",43.2904,5.36746
+"117, Rue de la Vallée 59178 Millonfosse France",50.4374,3.37583
+"17, Rue Bayard 38000 Grenoble France",45.1912,5.73291
+"6, Avenue Gavignot 95230 Soisy-sous-Montmorency France",48.9818,2.3002
+"31, Rue Neuve 78490 Les Mesnuls France",48.7556,1.83799
+"1, Rue René Blanc 74100 Annemasse France",46.1937,6.2363
+"9, Quai de Rive Neuve 13001 Marseille France",43.2935,5.37223
+"151, Avenue du Golf 34670 Baillargues France",43.6517,4.00494
+"119, Avenue du Général Leclerc 92340 Bourg-la-Reine France",48.7779,2.3151
+"130, Boulevard Voltaire 75011 Paris France",48.8574,2.38034
+"63, Rue d'Hyères 83140 Six-Fours-les-Plages France",43.1107,5.84569
+"4, Rue du Blé 67370 Stutzheim-Offenheim France",48.6272,7.62958
+"23, Rue de l'Étuve 25200 Montbéliard France",47.5119,6.79922
+"6, Faubourg de Besançon 90000 Belfort France",47.6273,6.85783
+"45, Boulevard Vincent Auriol 75013 Paris France",48.8354,2.36998
+"6, Impasse de Tromelin   Réunion",-20.9628,55.3318
+"25, Rue Jacques Decour 92150 Suresnes France",48.8753,2.22212
+"22, Rue Alphonse de Neuville 75017 Paris France",48.8866,2.30194
+"327, Boulevard Michelet 13009 Marseille France",43.258,5.39991
+"17, Rue Louis Guérin 69100 Villeurbanne France",45.7783,4.86083
+"5, Avenue du Général de Gaulle 94160 Saint-Mandé France",48.8457,2.41782
+"31, Rue Francis Davso 13001 Marseille France",43.2934,5.37746
+"1, Rue du Carpont 29600 Saint-Martin-des-Champs France",48.5773,-3.85087
+"19, Rue de l'Université 93160 Noisy-le-Grand France",48.8372,2.55265
+"22, Rue Jean Jaurès 59282 Douchy-les-Mines France",50.3033,3.38573
+"100, Rue Pierre Duhem 13290 Aix-en-Provence France",43.4789,5.37352
+"9, Rue Marie Thérèse Chalon 84200 Carpentras France",44.0538,5.04063
+"26, Rue Sainte-Félicite 75015 Paris France",48.839,2.30402
+"207, Boulevard Georges Clemenceau 13300 Salon-de-Provence France",43.6413,5.09202
+"1, Traverse des Dominicaines 13100 Aix-en-Provence France",43.5333,5.45509
+"2, Square Sainte-Clotilde 92210 Saint-Cloud France",48.8449,2.22028
+"13, Avenue du 4ème Régiment d'Infanterie 89000 Auxerre France",47.8009,3.55752
+"25, Avenue Michel de Toro 89170 Saint-Fargeau France",47.6459,3.06054
+"1, Rue des Prés 89200 Avallon France",47.4924,3.91057
+"106, Rue Georges Pompidou 89700 Tonnerre France",47.8525,3.98405
+"52, Rue d'Emerainville 77183 Croissy-Beaubourg France",48.8275,2.64321
+"130, Cours Emile Zola 69100 Villeurbanne France",45.77,4.87581
+"1, Boulevard Victor Hugo 13150 Tarascon France",43.803,4.6583
+"6 bis, Rue des Verts Prés 59700 Marcq-en-Barœul France",50.6587,3.08422
+"3, Rond-Point de Cahuzac 32200 Gimont France",43.6316,0.866317
+"151, Chemin Alphonse Lavallée 83210 La Farlède France",43.1498,6.03731
+"2, Rue Jean-Pierre Pedrazzini 66000 Perpignan France",42.7,2.93561
+"14, Rue Chauffour 33000 Bordeaux France",44.84,-0.589839
+"271, Chaussée Jules César 95250 Beauchamp France",49.0145,2.17878
+"3, Avenue de Mouliero 13770 Venelles France",43.5927,5.48062
+"1, Rue Fontaine l'Épine 25500 Morteau France",47.0595,6.61186
+"14, Rue Frédéric Japy 25200 Montbéliard France",47.5026,6.8189
+"3, Rue de la Bonnerie 45150 Jargeau France",47.8655,2.11093
+",  45170 Neuville-aux-Bois France",48.0692,2.05373
+"62, Rue d'Ypres 59270 Bailleul France",50.7414,2.73861
+"7, Allée Grp N Bourbaki 63170 Aubière France",45.7572,3.13004
+"36, Rue Salignat 03200 Vichy France",46.1243,3.42605
+"122, Chemin Lagourgue   Réunion",-20.9558,55.6531
+"138, Rue d'Aboukir 75002 Paris France",48.8692,2.35214
+"53, Rue de Melun 77240 Seine-Port France",48.5575,2.55437
+",    Réunion",-21.2795,55.4749
+"138, Route Nationale 3   Réunion",-21.0891,55.6873
+"62, Rue Ampère 75017 Paris France",48.8855,2.29991
+"5, Clos Perault 91200 Athis-Mons France",48.7118,2.39696
+"219, Rue de Fayet 02100 Saint-Quentin France",49.8553,3.27007
+"86, Boulevard Gambetta 02700 Tergnier France",49.653,3.28878
+"51, Avenue des Alliés 25200 Montbéliard France",47.5136,6.79845
+"5, Allée Isabeau 93400 Saint-Ouen France",48.91,2.34367
+"11, Rue Denis Papin 25000 Besançon France",47.2435,5.98939
+"12, Rue Notre Dame 91450 Soisy-sur-Seine France",48.646,2.45211
+"5, Rue Jasmin 75016 Paris France",48.8523,2.26756
+"27, Rue du Faubourg Madeleine 45000 Orléans France",47.901,1.89075
+"6, Rue du 8 Mai 62920 Oblinghem France",50.5492,2.59865
+"115, Rue Claude Nicolas Ledoux 13290 Aix-en-Provence France",43.4834,5.38271
+"2, Rue Sainte-Catherine 68100 Mulhouse France",47.7426,7.3392
+",  68800 Vieux-Thann France",47.8058,7.11958
+"104, Avenue Albert 1er 92500 Rueil-Malmaison France",48.8865,2.17111
+"59, Rue du Mûrier 37540 Saint-Cyr-sur-Loire France",47.4268,0.661636
+"1, Rue Branly 95190 Goussainville France",49.0324,2.46554
+",  82000 Montauban France",44.0221,1.35296
+"23, Cours des Carmes 33210 Langon France",44.5547,-0.24502
+"1, Rue d'Amiens 60000 Beauvais France",49.4371,2.08733
+"27, Allée Gambetta 93340 Le Raincy France",48.8953,2.51167
+"18, Grande Rue 91490 Milly-la-Forêt France",48.4031,2.46768
+"5, Impasse de l'Aubépine 57245 Peltre France",49.0712,6.23146
+"42, Avenue de Longchamp 57500 Saint-Avold France",49.1204,6.71077
+"17, Rue des Émeraudes 69006 Lyon France",45.7696,4.86112
+"310, Traverse de la Bourgade 13400 Aubagne France",43.2821,5.52286
+"21, Avenue Michel Crépeau 17000 La Rochelle France",46.1536,-1.15383
+"9, Croisée des Lys 68300 Saint-Louis France",47.5866,7.56308
+"162, Rue du Ladhof 68000 Colmar France",48.0968,7.37688
+"380, Rue Clément Ader 27000 Le Vieil-Évreux France",49.0136,1.18412
+"2, Rue du Jardin d'Ecosse 57245 Peltre France",49.0853,6.23922
+"15, Rue Pierre Gilles de Gennes 76130 Mont-Saint-Aignan France",49.4752,1.08907
+"169, Avenue Pierre Semard 84200 Carpentras France",44.0527,5.04275
+"97110, Point à Pitre 81170 Saint-Marcel-Campes France",44.0797,1.99288
+",   Pointe-à-Pitre Guadeloupe",16.2377,-61.534
+",  97110 Pitre Guadeloupe",16.246,-61.5406
+",   Pointe-à-Pitre Guadeloupe",16.2485,-61.5386
+"1, Rue Max Barel 24750 Boulazac France",45.1773,0.755819
+"21, Rue des Merisiers 68920 Wettolsheim France",48.0524,7.33508
+"7, Rue Vaudetard 92130 Issy-les-Moulineaux France",48.8271,2.27681
+"155, Avenue d'Eysines 33110 Le Bouscat France",44.8559,-0.601292
+"5, Rue Mertens 92600 Bois-Colombes France",48.9141,2.27291
+"5, Rue Mertens 92270 Bois-Colombes France",48.9144,2.27244
+"70, Rue Anita Conti 56000 Vannes France",47.6704,-2.78927
+"119, Rue Manin 75019 Paris France",48.8838,2.38936
+"24, Rue du Palais 57000 Metz France",49.1188,6.1738
+"19, Rue Alsace Lorraine 71100 Chalon-sur-Saône France",46.7883,4.83945
+"67, Cours Emile Zola 69100 Villeurbanne France",45.7714,4.86907
+"23, Avenue Faidherbe 02100 Saint-Quentin France",49.8439,3.28047
+"7, Rue de Rouen 75019 Paris France",48.8875,2.37445
+"210, Avenue du Général Leclerc 78220 Viroflay France",48.8008,2.16158
+"134, Avenue Gambetta 75020 Paris France",48.8733,2.40517
+"12, Quai du Commerce 69009 Lyon France",45.7834,4.81136
+"25, Allée du Mazelin 91590 Baulne France",48.4908,2.35911
+"10, Rue Furtado 33800 Bordeaux France",44.8253,-0.562352
+"608, Chemin d'en Touzet 11400 Castelnaudary France",43.3051,1.93194
+"5, Rue de Paris 94470 Boissy-Saint-Léger France",48.7511,2.51049
+", Parc Saint-Jean 57130 Jouy-aux-Arches France",49.0783,6.09754
+", Avenue de Lattre de Tassigny  Aix-en-Provence France",43.5382,5.43406
+"122, Route du Péage 01800 Pérouges France",45.9006,5.18122
+"3, Rue Charles Chaumet 33200 Bordeaux France",44.8495,-0.613441
+"19, Avenue de la Fontenelle 88100 Saint-Dié-des-Vosges France",48.2953,6.9524
+"10, Hameau de Keranscoet 29950 Clohars-Fouesnant France",47.887,-4.09793
+"3, Esplanade Stéphane Hessel 14000 Caen France",49.1817,-0.347006
+"3, Rue Hector Berlioz 38600 Fontaine France",45.2009,5.67805
+"121, Boulevard Baron du Marais 42300 Roanne France",46.0409,4.0647
+"6, Boulevard Jacquard 42190 Charlieu France",46.1593,4.17403
+", Cours Jean de Vienne 14600 Honfleur France",49.4136,0.248331
+"80, Avenue Jean Fourastié 11400 Castelnaudary France",43.3033,1.96318
+", Rue du Mont de Cocagne 62330 Isbergues France",50.6253,2.45242
+"25, Rue des Polytres 13013 Marseille France",43.3306,5.41616
+"95, Rue du Faubourg Saint-Antoine 75011 Paris France",48.8516,2.37544
+"199, Rue Colbert 59800 Lille France",50.6344,3.04116
+"5, Avenue du Maréchal Foch 59700 Marcq-en-Barœul France",50.6669,3.10259
+"18, Place du Maréchal Foch 59940 Estaires France",50.6441,2.72034
+"4, Rue du Pacifique 76240 Belbeuf France",49.3973,1.1574
+"17, Rue de la Vaucouleurs 78711 Mantes-la-Ville France",48.9778,1.73102
+", Rue de l'Eminee 63000 Clermont-Ferrand France",45.7606,3.14325
+"30 bis, Rue du Vieil Abreuvoir 78100 Saint-Germain-en-Laye France",48.8966,2.09551
+"55, Boulevard de Charonne 75011 Paris France",48.8528,2.39695
+"4, Rue de la Madeleine 70110 Courchaton France",47.5166,6.54094
+"7, Avenue de l'Yser 32000 Auch France",43.6487,0.592824
+", Pont Goubault 37800 Saint-Épain France",47.1333,0.607531
+"670, 1ère Avenue 06600 Antibes France",43.6,7.0936
+"20A, Rue de Turckheim 68000 Colmar France",48.0784,7.34532
+"523, Rue Léopold le Hon 01000 Bourg-en-Bresse France",46.1939,5.23143
+"112, Rue Lamartine 59290 Wasquehal France",50.6906,3.13696
+"23, Rue d'Alsace-Lorraine 06000 Nice France",43.7036,7.2629
+"16, Rue Neuve Sainte-Catherine 13007 Marseille France",43.2924,5.36991
+"26, Rue Louis Guérin 69100 Villeurbanne France",45.7772,4.86011
+"57, Avenue des Bonshommes 95290 L'Isle-Adam France",49.1079,2.22448
+"12, Rue de la Haye 67300 Schiltigheim France",48.6128,7.70696
+"15, Quai du Commerce 69009 Lyon France",45.7832,4.81106
+", Avenue Georges Guynemer 06700 Saint-Laurent-du-Var France",43.6614,7.19687
+"2, Rue Galabé 97424 Piton Saint-Leu Réunion",-21.2159,55.2981
+"4, Avenue Médéric 92360 Meudon France",48.7894,2.23196
+"464, Avenue du Repos 13360 Roquevaire France",43.3446,5.60335
+"16, Route des Esserts 74140 Douvaine France",46.2984,6.30821
+"58, Rue Pouchet 75017 Paris France",48.8948,2.32129
+", Avenue du Président Wilson 44110 Châteaubriant France",47.7024,-1.39387
+"5, Boulevard Gambetta 12000 Rodez France",44.3504,2.57313
+"1, Route de Metz 57100 Thionville France",49.3508,6.16004
+"130, Avenue Charles de Gaulle 92200 Neuilly-sur-Seine France",48.8833,2.2662
+"8, Rue Bayen 75017 Paris France",48.8792,2.29538
+"12, Rue Charles Perrault 91170 Viry-Châtillon France",48.678,2.37386
+"731, Route d'Annemasse 74440 Taninges France",46.1084,6.57629
+"39, Rue de Châteaudun 75009 Paris France",48.876,2.33612
+"4, Square René Cassin 35700 Rennes France",48.1304,-1.63465
+"2, Rue Georges Méliès 78390 Bois-d'Arcy France",48.8016,2.01008
+"1, Rue des Perreux 94440 Villecresnes France",48.718,2.53482
+"9, Rue Christiaan Huygens 25000 Besançon France",47.2137,5.97269
+"1, Rue Daumier 13008 Marseille France",43.2785,5.38733
+"96, Impasse des Agriculteurs 81000 Albi France",43.93,2.18032
+"48, Boulevard de Strasbourg 93600 Aulnay-sous-Bois France",48.9273,2.48978
+"74, Avenue Marcel Sembat 91200 Athis-Mons France",48.7081,2.37877
+"80, Rue des Mûres 92160 Antony France",48.7411,2.29843
+"87, Rue Gallieni 92100 Boulogne-Billancourt France",48.837,2.24424
+"9, Villa Raphaël 91860 Épinay-sous-Sénart France",48.6945,2.52377
+"1, Place Charles de Gaulle 78180 Montigny-le-Bretonneux France",48.7867,2.04509
+"893, Avenue du Peyrat 83310 Grimaud France",43.2635,6.54911
+"13, Rue Auber 75009 Paris France",48.8726,2.3288
+"1, Rue Jean Mermoz 78500 Sartrouville France",48.9408,2.16703
+"26, Rue Philibert Roussy 69004 Lyon France",45.7753,4.82248
+"62, Rue du Général de Gaulle 94350 Villiers-sur-Marne France",48.8271,2.54371
+"27, Rue Albert Einstein 54320 Maxéville France",48.702,6.12484
+"10, Route de Paris 62280 Saint-Martin-Boulogne France",50.71,1.61355
+"81, Avenue Caffin 94210 Saint-Maur-des-Fossés France",48.7919,2.50876
+"55, Rue Gueroux 93380 Pierrefitte-sur-Seine France",48.9624,2.36456
+"29, Rue Tristan Tzara 75018 Paris France",48.8953,2.36295
+"29, Rue du Port 16100 Cognac France",45.6935,-0.331784
+"92, Avenue du Général de Gaulle 92800 Puteaux France",48.8865,2.22926
+"8, Rue du Conseil de l'Europe 91300 Massy France",48.7284,2.25651
+"18, Rue Croix d'Or 73000 Chambéry France",45.5648,5.92403
+"9, Rue d'Enghien 69002 Lyon France",45.7527,4.82691
+"9, Rue des Pyramides 75001 Paris France",48.8649,2.33267
+"2, Rue des Sorbiers 30100 Alès France",44.1373,4.07594
+"170, Rue de Périole 31500 Toulouse France",43.6193,1.46796
+"6, Rue Bautain 67000 Strasbourg France",48.5866,7.77984
+"120, Rue André Ternynck 02300 Chauny France",49.6283,3.2123
+"28, Avenue Charles de Gaulle 02000 Laon France",49.57,3.63684
+"3, Boulevard Cosmao Dumanoir 56100 Lorient France",47.7549,-3.3639
+"32, Rue De La Clairière  Fort-de-France Martinique",14.6083,-61.0802
+"38, Rue de Berri 75008 Paris France",48.8738,2.30703
+",  60650 Savignies France",49.4653,1.9662
+"105, Avenue de Colmar 68200 Mulhouse France",47.7574,7.33407
+"1, Boulevard Michael Faraday 77700 Serris France",48.8405,2.79067
+"1, Avenue Alphand 94160 Saint-Mandé France",48.8396,2.41421
+"16, Rue Valentin Hauy 63000 Clermont-Ferrand France",45.7644,3.13791
+"53, Rue Cristino Garcia 93210 Saint-Denis France",48.9161,2.35936
+"4, Rue Michel Ange 75016 Paris France",48.8474,2.26343
+"106, Rue de la Liberté 38180 Seyssins France",45.1614,5.69624
+"43, Rue de la Paroisse 78000 Versailles France",48.8074,2.12993
+"13, Rue de Terre Neuve 35400 Saint-Malo France",48.6352,-2.01331
+"1, Chemin du Buisson Guérin 78750 Mareil-Marly France",48.8871,2.07507
+"4, Avenue de Verdun 59300 Valenciennes France",50.3536,3.5305
+"24, Rue Saint-Joseph 20200 Bastia France",42.6911,9.44602
+"4, Rue des Tuiliers 44860 Pont-Saint-Martin France",47.1135,-1.54242
+"8, Place Clemenceau 47190 Aiguillon France",44.3021,0.338255
+"6, Rue Thomas Edison 33160 Saint-Médard-en-Jalles France",44.8973,-0.765225
+"17, Avenue du Colonel Bonnet 75016 Paris France",48.8558,2.2776
+"9, Rue Moncey 75009 Paris France",48.8799,2.3303
+"14, Rue de la Beaune 93100 Montreuil France",48.8623,2.43623
+"3, Rue Jean Zay 42270 Saint-Priest-en-Jarez France",45.469,4.38429
+"59, Promenade Georges Pompidou 13008 Marseille France",43.2646,5.37399
+"33, Rue de Bruebach 68100 Mulhouse France",47.7402,7.34644
+"21, Rue Alphonse de Saintonge 17000 La Rochelle France",46.1639,-1.19845
+"2, Rue Jean Perrin 85300 Challans France",46.8352,-1.87954
+"2, Boulevard de Louvain 13008 Marseille France",43.2762,5.39047
+", Allée des Grès Roses 83400 Hyères France",43.1236,6.14849
+", Rue du Chevron d'Or 47300 Pujols France",44.3905,0.709157
+"143, Avenue Charles de Gaulle 92200 Neuilly-sur-Seine France",48.8826,2.266
+"162, Rue Etchenique 33200 Bordeaux France",44.8396,-0.611942
+"34, Chemin d'Apollon 95320 Saint-Leu-la-Forêt France",49.0197,2.25215
+"4, Place de l'Église 71390 Buxy France",46.7136,4.69476
+", Saint-Grégoire 35760 Saint-Grégoire France",48.1495,-1.68034
+", Centre Performance Alphasis 35760 Saint-Grégoire France",48.1542,-1.69734
+", Rue du General Lambert  Saint-Leu Réunion",-21.1741,55.2878
+"37, Rue le Brun 75013 Paris France",48.835,2.35355
+"32, Boulevard du Président Poincaré 67000 Strasbourg France",48.5899,7.74144
+"51, Rue du Général de Gaulle 59133 Phalempin France",50.512,3.01694
+",  74540 Cusy France",45.7664,6.02695
+"40, Route des Allées 17310 Saint-Pierre-d'Oléron France",45.9378,-1.30404
+"19, Avenue des Lilas 95120 Ermont France",48.9928,2.25291
+"16, Rue Frédéric Japy 25200 Montbéliard France",47.5028,6.81932
+"3, Rue de Manyaques 66100 Perpignan France",42.6761,2.91013
+"27, Rue Charles Montaland 69100 Villeurbanne France",45.7627,4.88212
+"16, Allée des Grès Roses 83400 Hyères France",43.1238,6.15026
+"24, Route d'Irigny 69530 Brignais France",45.6729,4.76801
+"83, Allées Charles de Fitte 31300 Toulouse France",43.599,1.42971
+"61, Rue Jean Macé 24100 Bergerac France",44.8582,0.506318
+"2, Rue Boisgelin 13430 Eyguières France",43.6947,5.03042
+", Rue de la Prairie  Bailly-Romainvilliers France",48.8474,2.82883
+"5, Rue de la Prairie 77580 Bailly-Romainvilliers France",48.8473,2.82845
+"92, Rue Jeanne d'Arc 76000 Rouen France",49.4457,1.09293
+"5, Rue de la Prairie 77700 Bailly-Romainvilliers France",48.8474,2.82852
+"113, Avenue Victor Hugo 92170 Vanves France",48.8265,2.29327
+", Rue Jean Bernard Rousseau   Réunion",-21.0124,55.2674
+"2, Rue Meissonier 75017 Paris France",48.8825,2.30447
+",  81500 Lavaur France",43.6992,1.8207
+"16, Rue Cavendish 75019 Paris France",48.8828,2.3804
+"40, Rue de l'Industrie  Baie Mahault Guadeloupe",16.2372,-61.5563
+", Rue de l'Industrie  Baie Mahault Guadeloupe",16.2374,-61.5596
+"10, Rue Saint-Michel 31340 Villemur-sur-Tarn France",43.8656,1.50439
+"77, Route de Lombez 31830 Plaisance-du-Touch France",43.5587,1.27897
+"8, Rue de l'Isly 75009 Paris France",48.8749,2.32563
+"49, Avenue du Général de Gaulle 94500 Champigny-sur-Marne France",48.8217,2.48931
+"11, Avenue de Strasbourg 68350 Didenheim France",47.7257,7.29234
+"5, Rue Maurice Thorez 78190 Trappes France",48.7796,1.99257
+", Avenue du Golf 34670 Baillargues France",43.6507,4.00321
+"28, Rue Jean Jullien Davin 26000 Valence France",44.9033,4.89857
+"52, Faubourg de Montbéliard 90000 Belfort France",47.6323,6.85662
+"9, Rue du Trésor 75004 Paris France",48.8571,2.35761
+"16, Rue Parmentier 93220 Gagny France",48.8838,2.53253
+"64, Rue de Monceau 75008 Paris France",48.8787,2.31311
+"145, Rue du 12 Régiment de Zouaves 84000 Avignon France",43.9296,4.77691
+", Avenue Georges Frêche  Pérols France",43.573,3.94533
+"1, Avenue du Gén de Gaulle 68150 Ribeauvillé France",48.1915,7.3254
+"175, Avenue d'Alsace 68000 Colmar France",48.0672,7.36488
+"43, Avenue d'Italie 80090 Amiens France",49.8713,2.28133
+"147, Avenue Marcel Mérieux 69530 Brignais France",45.6882,4.76894
+"92, Cours Saint-Louis 33300 Bordeaux France",44.8594,-0.568847
+"38, Avenue de l'Hers 31500 Toulouse France",43.6139,1.48117
+"31, Rue de Finlande 81000 Albi France",43.9239,2.13481
+"66, Rue Saint-Jacques 13006 Marseille France",43.288,5.3761
+"29, Boulevard Paul Doumer 51100 Reims France",49.2493,4.02647
+", Route du Quinquis Leck 29800 Landerneau France",48.4639,-4.26413
+"38, Rue des Blancs Manteaux 75004 Paris France",48.8597,2.35529
+", Rue Louis Delage 26200 Montélimar France",44.54,4.73436
+",  13590 Meyreuil France",43.4916,5.52543
+"19, Rue de la République 67720 Hœrdt France",48.6995,7.78696
+"21, Rue de la République 91800 Brunoy France",48.6993,2.50542
+", Rue du Port 72100 Le Mans France",48.0027,0.193415
+"178, Rue du Temple 75003 Paris France",48.8667,2.36286
+"20, Rue du 14 Juillet 09100 Saint-Jean-du-Falga France",43.0761,1.62712
+"9, Square de Liège 54500 Vandœuvre-lès-Nancy France",48.668,6.1687
+"7, Rue Sainte-Odile 67300 Schiltigheim France",48.6079,7.74432
+",  20244 Cambia France",42.3651,9.29301
+"19a, Rue de la République 67720 Hœrdt France",48.6995,7.78711
+"90, Route de la Reine 92100 Boulogne-Billancourt France",48.8401,2.23841
+"1, Rue du Faubourg Saint-Honoré 75008 Paris France",48.8683,2.3229
+"54, Rue de la République 69002 Lyon France",45.7592,4.83482
+"1, Rue des Jacobins 24000 Périgueux France",45.1872,0.714253
+"113, Quai Jean Péridier 34070 Montpellier France",43.5969,3.84163
+"16, Rue Gabriel Voisin 51100 Reims France",49.231,4.06539
+"104, Avenue Dussap 83000 Toulon France",43.1217,5.94447
+"4, Allée Jean Paul Sartre 77186 Noisiel France",48.8439,2.61811
+"188, Grande Rue Charles de Gaulle 94130 Nogent-sur-Marne France",48.8382,2.49355
+"850, Rue Etienne Lenoir 30900 Nîmes France",43.8094,4.33411
+", Avenue Berthelot 83160 La Valette-du-Var France",43.1374,6.00223
+"46, Avenue du Général de Gaulle 91550 Paray-Vieille-Poste France",48.7051,2.35484
+"133, Avenue d'Italie 75013 Paris France",48.821,2.35949
+"7, Rue Principale 71530 Crissey France",46.812,4.86899
+"7, Rue Paul Langevin 54320 Maxéville France",48.7035,6.13022
+"3, Avenue des Volcans 63780 Saint-Georges-de-Mons France",45.9383,2.84122
+"24, Place d'Avesnières 53000 Laval France",48.0593,-0.763235
+"6, Rue Allard 94160 Saint-Mandé France",48.841,2.41694
+"108, Rue de l'Hostellerie 30900 Nîmes France",43.8141,4.34535
+"86, Avenue de Wagram 75017 Paris France",48.8826,2.3018
+"12, Rue Louise Michel 92300 Levallois-Perret France",48.8876,2.28548
+"1, Route de Saint-Leu 95600 Eaubonne France",48.9956,2.2735
+"7, Rue Samuel Lubin  Cayenne Guyane française",4.94204,-52.324
+"41, Avenue des Tilleuls 91300 Massy France",48.7278,2.23742
+"17, Rue Jeanne Braconnier 92360 Meudon France",48.7902,2.21247
+",  20167 Afa France",41.9839,8.79683
+"154, Boulevard Haussmann 75008 Paris France",48.8753,2.31138
+"64, Boulevard de Reuilly 75012 Paris France",48.8396,2.39824
+"161, Boulevard Lefebvre 75015 Paris France",48.8292,2.30065
+"8, Rue de Ressons 60420 Méry-la-Bataille France",49.5472,2.62922
+"980, Avenue Eloi Ducom 40000 Mont-de-Marsan France",43.891,-0.484471
+"1, Rue Georges Auric 83400 Hyères France",43.115,6.12805
+", Avenue Pierre Gilles de Gennes 83160 La Valette-du-Var France",43.141,6.00765
+"43, Rue de Saint-Louis 68330 Huningue France",47.5899,7.57269
+"46, Avenue Roger Salengro 68100 Mulhouse France",47.7504,7.34666
+",  90000 Belfort France",47.6438,6.84371
+"14 bis, Rue du Maréchal Foch 77780 Bourron-Marlotte France",48.3397,2.6977
+"78, Avenue Tolosane 31520 Ramonville-Saint-Agne France",43.5426,1.47811
+"69, Boulevard Pereire 75017 Paris France",48.887,2.30388
+"2b, Rue P Dreyfus Schmidt 90000 Belfort France",47.6401,6.85992
+",  62150 Houdain France",50.454,2.53912
+"1, Cour du Havre 75008 Paris France",48.8764,2.3257
+"35, Rue Saint-Georges 75009 Paris France",48.877,2.337
+"7B, Avenue Balzac 94210 Saint-Maur-des-Fossés France",48.7942,2.51467
+"143, Boulevard Haussmann 75008 Paris France",48.8749,2.31203
+"140, Avenue Franklin Roosevelt 69500 Bron France",45.7336,4.90804
+"22, Place du Général Catroux 75017 Paris France",48.8833,2.31005
+", Place du 8 Mai 83340 Le Luc France",43.3916,6.31859
+", Le Clos de Saint-Jean 50320 Saint-Jean-des-Champs France",48.8355,-1.46349
+"9, Rue du Peintre Sisley 77250 Veneux-les-Sablons France",48.379,2.78457
+"7, Rue Saint-Martin 45330 Le Malesherbois France",48.2963,2.41614
+"4, Rue du Guinebert 77140 Saint-Pierre-lès-Nemours France",48.2713,2.6779
+",  77140 Saint-Pierre-lès-Nemours France",48.2662,2.68112
+", Rue du Clos Saint-Jean 77140 Saint-Pierre-lès-Nemours France",48.2703,2.67869
+", Rue de l'Hôtel de ville 07100 Annonay France",45.24,4.66711
+"36, Rue Lamartine 06000 Nice France",43.7045,7.26794
+"78, Boulevard de la République 92210 Saint-Cloud France",48.8464,2.21434
+", Chemin de Soriech 34970 Lattes France",43.5797,3.92179
+"22, Avenue de Paris 95600 Eaubonne France",48.9925,2.28407
+"24, Rue Jean Cocteau 97400 Sainte-Clotilde Réunion",-20.8876,55.4667
+", Rue Joseph De Souvile   Réunion",-21.3782,55.6183
+", Rue de la Piscine 97400 Sainte-Clotilde Réunion",-20.886,55.4728
+", Rue Jules Thirel   Réunion",-20.9878,55.2982
+",  07130 Saint-Péray France",44.9448,4.8419
+",  07130 Saint-Péray France",44.9478,4.85037
+"9, Rue de Saint-André 62870 Campagne-lès-Hesdin France",50.3996,1.87868
+"7, Avenue de Vendargues 34830 Jacou France",43.6595,3.91287
+"20, Rue de l'Avre 75015 Paris France",48.8479,2.29743
+", Rue Ferdinand Forest  Baie Mahault Guadeloupe",16.2402,-61.5651
+"37, Avenue Louis Cancel 34270 Saint-Mathieu-de-Tréviers France",43.7673,3.86707
+"7, Rue des Reculettes 75013 Paris France",48.832,2.35162
+"50, Boulevard Alexandre Martin 45000 Orléans France",47.9062,1.90876
+"1, Rue Berteaux Dumas 92200 Neuilly-sur-Seine France",48.8809,2.27438
+"22, Rue Gustave Eiffel 78300 Poissy France",48.9461,2.06373
+"47, Avenue Hector Berlioz  Kourou Guyane française",5.16613,-52.6474
+"26, Rue Camille Enlart 62200 Boulogne-sur-Mer France",50.7212,1.61687
+"6, Rue des Boers 06100 Nice France",43.7173,7.25872
+"3, Rue de Courbiac 17100 Saintes France",45.7532,-0.630584
+"16, Rue des Murlins 45000 Orléans France",47.909,1.89978
+"31, Rue des Soupirants 62100 Calais France",50.9488,1.85126
+"7, Rue de la Fontaine 56890 Saint-Avé France",47.6825,-2.73632
+"3, Route d'Enco de Botte 13012 Marseille France",43.3133,5.46534
+"8, Rue de Paris 23000 Guéret France",46.1717,1.86869
+"2, Rue Léon Patoux 51100 Reims France",49.2353,4.0663
+", Allee De La Piscine  Saint-Pierre Réunion",-21.3312,55.4716
+"24, Avenue André Roussin 13016 Marseille France",43.3562,5.33838
+"5, Rue de Sétubal 60000 Beauvais France",49.4396,2.10576
+"26, Rue Rennequin 75017 Paris France",48.8817,2.29846
+"5, Rue Gounod 75017 Paris France",48.8829,2.30058
+"231, Rue de l'Innovation 24660 Coulounieix-Chamiers France",45.1447,0.696265
+"21, Allée des Paons 40130 Capbreton France",43.6343,-1.44691
+", Boulevard du Four À Chaud 06110 Le Cannet France",43.5695,7.00214
+"11, Rue du Parc 67205 Oberhausbergen France",48.6027,7.68189
+"217, Avenue de la Victoire du 8 Mai 1945 83000 Toulon France",43.1309,5.92905
+"1, Rue des Quatre Chapeaux 69002 Lyon France",45.7628,4.83461
+"83, Rue Chardon Lagache 75016 Paris France",48.8409,2.26378
+"1, Rue de l'Origan 62000 Arras France",50.3024,2.73216
+"7, Rue Catulle Mendès 75017 Paris France",48.8865,2.29111
+"26, Avenue de Verdun 42000 Saint-Étienne France",45.4666,4.37741
+"68, Avenue Paul Painlevé 24100 Bergerac France",44.8395,0.488885
+"1, Rue des Chevaliers de Malte 34970 Lattes France",43.5715,3.90017
+"67, Avenue Victor Hugo 16100 Cognac France",45.6912,-0.322455
+", Place du Forum 34170 Castelnau-le-Lez France",43.6448,3.924
+"24, Avenue des Tignes 06110 Le Cannet France",43.5655,7.01514
+"29, Boulevard Richard-Lenoir 75011 Paris France",48.8574,2.37047
+"41, Rue du Général Leclerc 93220 Gagny France",48.8871,2.53606
+"1, Rue de la Presse 42100 Saint-Étienne France",45.4589,4.39633
+"3, Rue du Pont de l'Aveugle 64600 Anglet France",43.499,-1.49417
+"8, Rue du Château 37550 Saint-Avertin France",47.3673,0.745741
+", Moudong Nord  Baie Mahault Guadeloupe",16.2507,-61.5881
+"11, Square de Mondovi 78150 Le Chesnay France",48.8276,2.13278
+"18, Rue de Charonne 75011 Paris France",48.8528,2.37471
+"36, Avenue du Parc Pereire 33120 Arcachon France",44.6588,-1.18531
+"32, Rue Chapsal 94340 Joinville-le-Pont France",48.8231,2.4656
+"82, Rue Denis Papin 40990 Saint-Paul-lès-Dax France",43.7576,-1.0625
+"6, Rue Simone Bigot 93360 Neuilly-Plaisance France",48.8613,2.49896
+"35, Rue de Cahors 24200 Sarlat-la-Canéda France",44.8841,1.21634
+",  20270 Aghione France",42.1072,9.41826
+"184, Avenue Charles de Gaulle 92200 Neuilly-sur-Seine France",48.8858,2.25828
+"12, Rue de l'Artisanat 62300 Lens France",50.4409,2.80595
+"28, Rue Jean Bertin 45430 Chécy France",47.9026,2.03329
+",  37550 Saint-Avertin France",47.3679,0.726905
+"72, Rue de Monceau 75008 Paris France",48.8796,2.31504
+", Place Lucien Saint 31440 Marignac France",42.9138,0.65794
+"1, Place François Mitterrand 31240 Saint-Jean France",43.6653,1.50585
+"6, Rue Georges Courteline 31100 Toulouse France",43.5912,1.41564
+"24, Rue de la République 31620 Fronton France",43.8411,1.38924
+"6, Rue Maurice Roy 18000 Bourges France",47.0808,2.41454
+"86, Boulevard Flandrin 75116 Paris France",48.8699,2.27539
+"5, Rue Guy Môquet 38130 Échirolles France",45.1443,5.72613
+"9, Rue du Comté de Mons 37300 Joué-lès-Tours France",47.3521,0.659206
+"8, Rue Casanova d'Aracciani 20110 Propriano France",41.6731,8.90332
+",  77250 Moret-Loing-et-Orvanne France",48.3604,2.82689
+"113, Avenue du Général de Gaulle 94500 Champigny-sur-Marne France",48.8236,2.49563
+"209, Avenue du Général de Gaulle 33290 Blanquefort France",44.9284,-0.635173
+"3, Quai Kléber 67000 Strasbourg France",48.5865,7.74185
+"40, Boulevard Victor Hugo 06000 Nice France",43.699,7.26153
+"42, Chemin des Myosotis   Mayotte",-21.2805,55.4438
+"2, Quai de Dogneville 88000 Épinal France",48.1795,6.44922
+"40, Rue Paul Séjourné 66000 Perpignan France",42.6945,2.92259
+"38, Rue Célestin Freppaz 73700 Séez France",45.623,6.79896
+"25, Rue Saint Charles 67300 Schiltigheim France",48.6051,7.7417
+"202, Quai de Clichy 92110 Clichy France",48.9125,2.31422
+"48, Boulevard des Coquibus 91000 Évry France",48.6248,2.43027
+"49, Route de Valmondois 95690 Nesles-la-Vallée France",49.1154,2.17596
+",  18000 Bourges France",47.081,2.39878
+"22, Quai de Dogneville 88000 Épinal France",48.1811,6.44764
+"2, Rue du Général de Gaulle 59263 Houplin-Ancoisne France",50.5751,2.99277
+",  95690 Nesles-la-Vallée France",49.1288,2.16967
+"37, Rue Henri Tariel 92130 Issy-les-Moulineaux France",48.8215,2.26848
+"6, Rue Girardin 13007 Marseille France",43.2898,5.35868
+"7, Avenue Pierre Verdier 34500 Béziers France",43.3456,3.23695
+"19, Rue des Entrepreneurs 78420 Carrières-sur-Seine France",48.9141,2.19696
+"28, Rue Chapsal 94340 Joinville-le-Pont France",48.8231,2.46569
+"62, Avenue Henri Ginoux 92120 Montrouge France",48.8177,2.32193
+"4, Rue Sainte-Sophie 78000 Versailles France",48.8096,2.13275
+"4, Rue de l'Abreuvoir 92400 Courbevoie France",48.8907,2.25597
+"32, Rue de Vilgénis 91300 Massy France",48.7315,2.24312
+", Résidence Windsor 91300 Massy France",48.7305,2.24837
+", Boulevard De La Marne  Fort-de-France Martinique",14.6047,-61.0834
+"10, Place de l'Église Saint-Augustin 33000 Bordeaux France",44.8323,-0.611202
+"270, Chemin de la Cristole 84140 Avignon France",43.9272,4.85134
+"41, Rue Beauregard 75002 Paris France",48.8697,2.3515
+"15, Avenue Roger Salengro 17440 Aytré France",46.1409,-1.13668
+", Impasse Gustave Courbet   Réunion",-21.2617,55.5208
+"5, Rue du Colibri 59650 Villeneuve-d'Ascq France",50.6391,3.14985
+"6, Avenue Konrad Adenauer 68390 Sausheim France",47.777,7.38248
+"20, Rue du Bois Chaland 91090 Lisses France",48.603,2.43364
+"27, Avenue du Prado 13006 Marseille France",43.2842,5.3852
+"3, Boulevard de l'Yerres 91000 Évry France",48.6147,2.4339
+"6, Cours Richard Vitton 69003 Lyon France",45.7541,4.88516
+"535, Rue Raymond Recouly 34070 Montpellier France",43.5761,3.86097
+"18, Rue Buffon 21200 Beaune France",47.0069,4.847
+"11, Rue Caumont Breon 21700 Nuits-Saint-Georges France",47.14,4.94958
+"16, Rue de Champ Fleuri 72190 Coulaines France",48.029,0.198636
+"6, Rue des Terres du Sud 34990 Juvignac France",43.6172,3.78902
+", Chemin de la Fenouillette 83170 Brignoles France",43.4157,6.07513
+"52, Rue de Marclan 31600 Muret France",43.48,1.3331
+"27, Rue d'Anjou 92600 Asnières-sur-Seine France",48.9052,2.28237
+"28, Rue de Belfort 25400 Audincourt France",47.4845,6.84115
+"380, Avenue du Général de Gaulle 06700 Saint-Laurent-du-Var France",43.6657,7.19393
+"338, Avenue du Vallon Vert 13190 Allauch France",43.3381,5.46123
+"54, Cours de la Libération 33000 Bordeaux France",44.8326,-0.580143
+"1, Rue Camille Desmoulins 92300 Levallois-Perret France",48.8886,2.28465
+"15, Rue Lafayette 94210 Saint-Maur-des-Fossés France",48.8025,2.5155
+"287, Rue Barthélemy Thimonnier 69530 Brignais France",45.6866,4.76642
+"36, Rue Paul Henri Charles Spaak 26000 Valence France",44.9217,4.93015
+"14, Rue Scandicci 93500 Pantin France",48.8921,2.39867
+"529, Avenue Roger Salengro 59450 Sin-le-Noble France",50.3605,3.09783
+"7, Rue de Verjoulot 70190 Neuvelle-lès-Cromary France",47.4155,6.07251
+", Chemin de la Bretèque  Bois-Guillaume France",49.4815,1.1095
+"6, Rue de la Cornouaille 44300 Nantes France",47.2424,-1.53662
+"2, Avenue de Paris 45000 Orléans France",47.9073,1.90424
+"108, Allee du Quebec 76230 Bois-Guillaume France",49.4756,1.11082
+", Rue la Motte Picquet 33300 Bordeaux France",44.8725,-0.562517
+"2, Rue de la Chapelle 91310 Montlhéry France",48.6384,2.27178
+"25, Avenue Pasteur 87700 Aixe-sur-Vienne France",45.7956,1.13018
+"29, Rue J J Henner 68130 Altkirch France",47.622,7.23744
+"139, Avenue du Maréchal Foch 78700 Conflans-Sainte-Honorine France",49.0032,2.10724
+"31, Avenue Georges Clemenceau 59300 Valenciennes France",50.3608,3.51999
+"6, Rue Tronson du Coudray 75008 Paris France",48.8732,2.32272
+"6, Rue de la Cornouaille 44300 Nantes France",47.2424,-1.5366
+"74, Boulevard Périer 13008 Marseille France",43.2791,5.38243
+"33, Rue de la Bienfaisance 75008 Paris France",48.8765,2.31528
+", Rue de la Blancherie 33370 Artigues-près-Bordeaux France",44.8531,-0.503101
+"17, Rue des Charpentiers 57070 Metz France",49.1109,6.23222
+"97, Rue de Prony 75017 Paris France",48.8843,2.29932
+",  26110 Nyons France",44.3619,5.14014
+"21, Rue Jean-Pierre Timbaud 75011 Paris France",48.8654,2.36818
+"18, Rue Eugène Sue 92500 Rueil-Malmaison France",48.8771,2.20225
+"946, Boulevard Docteur Félix Escudier 83000 Toulon France",43.1341,5.94391
+"5, Rue Lespagnol 75020 Paris France",48.8586,2.39246
+"6, Boulevard Dubreuil 91400 Orsay France",48.6966,2.17915
+"5, Rue Oberkampf 75011 Paris France",48.863,2.36784
+"65, Boulevard de Courcelles 75008 Paris France",48.8787,2.30215
+",  26110 Nyons France",44.3361,5.09892
+"15, Rue Louis Blériot 92500 Rueil-Malmaison France",48.8896,2.16672
+"7, Allée Jean Jaurès 81500 Lavaur France",43.6992,1.81511
+"78, Rue Olivier de Serres 75015 Paris France",48.8332,2.29422
+"167, Quai Ledru-Rollin 72100 Le Mans France",48.0127,0.196944
+"8, Rue de l'Abbé Grégoire 54300 Lunéville France",48.5981,6.48206
+"98, Rue de Lagny 75020 Paris France",48.8489,2.4101
+",  88200 Saint-Nabord France",48.0472,6.57831
+", Ranfaing 88200 Saint-Nabord France",48.0332,6.57786
+"6, Rue Jules Méline 51430 Bezannes France",49.2158,4.00138
+"102, Rue du Lac 31670 Labège France",43.5355,1.51674
+", Avenue de Bourbon   Réunion",-20.9737,55.6477
+", Avenue du Bourbon   Réunion",-20.9684,55.648
+"31, L'Ourmède 31620 Castelnau-d'Estrétefonds France",43.7654,1.36851
+"6, L'Ourmède 31620 Castelnau-d'Estrétefonds France",43.7648,1.3718
+"1, Terrasse Limousin 57400 Sarrebourg France",48.7224,7.04409
+"23, Allée Lavoisier 59650 Villeneuve-d'Ascq France",50.6434,3.14048
+",  29470 Plougastel-Daoulas France",48.3741,-4.36911
+"122, Avenue Charles de Gaulle 94370 Sucy-en-Brie France",48.7647,2.53425
+"101, Rue Mazarin 33000 Bordeaux France",44.8273,-0.578926
+"39, Rue des Belles Feuilles 75116 Paris France",48.8673,2.28146
+"22, Rue Jacques Prévert 33700 Mérignac France",44.8432,-0.671116
+"21, Rue de Lisbonne 75008 Paris France",48.8776,2.31421
+"1, Rue Louis Proust 86000 Poitiers France",46.6049,0.331325
+"35, Boulevard de Bonne Nouvelle 75002 Paris France",48.8704,2.3485
+"14, Rue du Général Audran 92400 Courbevoie France",48.8905,2.25364
+"21, Square Saint-Charles 75012 Paris France",48.8465,2.38924
+"167, Avenue Jean Mermoz 64140 Lons France",43.3206,-0.37957
+"3, Rue Bellanger 92300 Levallois-Perret France",48.8958,2.29541
+"54, Avenue Pasteur 13760 Saint-Cannat France",43.6216,5.29431
+"57, Boulevard de l'Embouchure 31200 Toulouse France",43.6137,1.42982
+"15, Rue du Clos des Roseaux 63170 Pérignat-lès-Sarliève France",45.7266,3.14952
+"1, Allée de Londres 91140 Villejust France",48.6849,2.20292
+"11, Allée des Genêts 04200 Sisteron France",44.2305,5.91233
+"19, Avenue Charles de Gaulle 71400 Autun France",46.9515,4.29738
+"8, Impasse de l'Europe 89100 Maillot France",48.1788,3.29716
+"55, Avenue Jean Mermoz 89000 Auxerre France",47.8148,3.5837
+"41, Rue Monthyon 97471 Saint-Denis Réunion",-20.887,55.4569
+", Rue Gustave Carriol 13116 Vernègues France",43.6927,5.20417
+"58, Rue du Moulin du Président 89000 Auxerre France",47.8089,3.58141
+"1, Rue du Bois de Trou 77700 Bailly-Romainvilliers France",48.8496,2.82134
+"721, Rd 79 des Barthes 82700 Saint-Porquier France",44.0123,1.18165
+"1, Rue Denis Poisson 75017 Paris France",48.8767,2.28728
+"180, Avenue du Prado 13008 Marseille France",43.2778,5.38778
+"44 ter, Boulevard Saint-Antoine 78150 Le Chesnay France",48.8175,2.12379
+"170, Rue Pierre-Gilles de Gennes 83210 La Farlède France",43.1574,6.05153
+"54, Rue de la Fontaine 13420 Gémenos France",43.2978,5.62405
+"76, Avenue Jean Mermoz 93120 La Courneuve France",48.9318,2.40683
+"46, Rue Rameau 59242 Templeuve France",50.5239,3.17655
+"17, Rue Alfred Sauvy 31270 Cugnaux France",43.5367,1.35683
+"2, Rue de l'Église 62860 Marquion France",50.211,3.08579
+"1, Avenue des Marronniers 94130 Nogent-sur-Marne France",48.8332,2.47103
+"15, Rue Godot de Mauroy 75009 Paris France",48.8712,2.32683
+"7, Place de Boussu 59410 Anzin France",50.3691,3.50236
+"3, Rue de Châtillon 92140 Clamart France",48.8015,2.26815
+"23, Avenue Maréchal Foch 64100 Bayonne France",43.4939,-1.48256
+"92, Rue de Miromesnil 75008 Paris France",48.8793,2.31571
+"105, Rue des Mourettes 26000 Valence France",44.8937,4.89052
+"59, Rue Victor Hugo 95480 Pierrelaye France",49.0231,2.1552
+"12, Place de la Défense 92400 Courbevoie France",48.8911,2.24241
+", Rue Aristide Berges 66330 Cabestany France",42.6907,2.92268
+"10, Avenue Jean Baptiste Clément 92140 Clamart France",48.8001,2.2674
+"44, Rue de Rennes 35830 Betton France",48.1761,-1.63976
+", Place de la Défense  Paris France",48.8911,2.24182
+"6, Rue de Porstrein 29200 Brest France",48.3822,-4.4876
+"140 bis, Rue de Rennes 75006 Paris France",48.8456,2.32511
+"10, Avenue de Saint-Etienne 42160 Andrézieux-Bouthéon France",45.5258,4.26481
+"16, Rue Albert Einstein 77420 Champs-sur-Marne France",48.8353,2.58528
+"17, Rue Joseph de Maistre 75018 Paris France",48.8863,2.33319
+"8, Rue Louis Rège 13008 Marseille France",43.281,5.39003
+"10, Place du Plenitre 61000 Alençon France",48.4299,0.0914219
+"3, Rue de l'Aigle d'Or 78100 Saint-Germain-en-Laye France",48.8959,2.09478
+"1, Rue Puits Gaillot 69001 Lyon France",45.7679,4.83445
+"19, Place Saint-Aphrodise 34500 Béziers France",43.3471,3.21398
+",  74100 Annemasse France",46.1933,6.23416
+"4, Rue des Chauffours 95000 Cergy France",49.0406,2.07657
+"22, Rue Aristide Briand 37300 Joué-lès-Tours France",47.3529,0.660227
+"17B, Rue Alfred Sauvy 31270 Cugnaux France",43.5368,1.35622
+"9, Rue Jean Baptiste Dantil 31240 Saint-Jean France",43.6541,1.5098
+"140, Boulevard Haussmann 75008 Paris France",48.8755,2.31333
+"42, Rue du Général Leclerc 94270 Le Kremlin-Bicêtre France",48.8131,2.35869
+"6, Rue de la Grange Saint-Pierre 71850 Charnay-lès-Mâcon France",46.3097,4.81629
+"46, Boulevard de Roux 13004 Marseille France",43.3072,5.40468
+"123, Rue la Fayette 75010 Paris France",48.8784,2.35333
+"44, Boulevard Denfert Rochereau 16100 Cognac France",45.6953,-0.32585
+"40, Rue Colbert 92700 Colombes France",48.9112,2.23694
+"13, Rue d'Aubuisson 31000 Toulouse France",43.6031,1.4528
+"28, Avenue Maréchal Foch 06480 La Colle-sur-Loup France",43.6865,7.10588
+"19, Quai de Rive Neuve 13007 Marseille France",43.2929,5.37025
+"5, Rue François Cevert 33700 Mérignac France",44.8612,-0.647388
+"11, Avenue de l'Opéra 75001 Paris France",48.8653,2.33434
+"3, Avenue Paul Verlaine 38100 Grenoble France",45.1624,5.71372
+"169, Rue Paul de Kock 93230 Romainville France",48.8921,2.43829
+"136, Boulevard des Jardiniers 06200 Nice France",43.7092,7.19257
+", Rue Paul Baudot 97100 Basse-Terre Guadeloupe",15.9977,-61.7316
+"42, Route de Bischwiller 67300 Schiltigheim France",48.5999,7.74347
+"11, Rue Quinette 02200 Soissons France",49.3847,3.32154
+"26, Avenue du Port 83270 Saint-Cyr-sur-Mer France",43.1804,5.68689
+"13, Rue de la Montjoie 93210 Saint-Denis France",48.9111,2.3625
+"1, Rue de l'Aqueduc 94260 Fresnes France",48.759,2.32694
+"1, Rue de Bretagne 68390 Sausheim France",47.7801,7.38939
+"455, Promenade des Anglais 06200 Nice France",43.6695,7.21457
+"14, Rue Henri Becquerel 63110 Beaumont France",45.7425,3.09309
+"16, Rue de Quatrefages 17000 La Rochelle France",46.163,-1.18169
+"110, Rue de Corbeil 91360 Épinay-sur-Orge France",48.6675,2.33266
+"25, Rue Pasteur 95100 Argenteuil France",48.9543,2.26357
+"137, Avenue Anatole France 94600 Choisy-le-Roi France",48.7555,2.4151
+"295, Fonfillol 81370 Saint-Sulpice-la-Pointe France",43.7657,1.71342
+"11, Rue Alexandre Dumas 91260 Juvisy-sur-Orge France",48.6972,2.37354
+"25, Rue Pierre-Gilles de Gennes 85300 Challans France",46.8355,-1.88467
+"15, Rue du Jeu de Mail 59140 Dunkerque France",51.0272,2.36984
+"110, Route de Corbeil 91360 Villemoisson-sur-Orge France",48.6538,2.33761
+"33, Rue Clément Perrot 94400 Vitry-sur-Seine France",48.7895,2.3902
+"43, Rue de Talleyrand 51100 Reims France",49.2566,4.02812
+"78, Chemin de l'Église de Lalande 31200 Toulouse France",43.6489,1.42685
+"34, Boulevard du Président Wilson 06600 Antibes France",43.5777,7.11838
+"210, Rue Jean Voillot 69100 Villeurbanne France",45.7498,4.91371
+"65, Boulevard Sainte-Barbe 59140 Dunkerque France",51.0347,2.38215
+", Rue de Lille 59130 Lambersart France",50.6515,3.04072
+"47, Boulevard de la Reine 78000 Versailles France",48.8095,2.12854
+", Chemin Thomas Payet  La Plaine des Cafres Réunion",-21.1956,55.5321
+"29, Résidence de la Gaillarderie 78590 Noisy-le-Roi France",48.8404,2.07147
+"18, Rue Albert Joly 78000 Versailles France",48.8103,2.13801
+"36, Avenue Madeleine 95320 Saint-Leu-la-Forêt France",49.0087,2.24521
+"61, Rue des Entrepreneurs 75015 Paris France",48.8455,2.28867
+"20, Rue Carnot 89200 Avallon France",47.4924,3.90888
+"333, Rue de Vaugirard 75015 Paris France",48.8375,2.29737
+"8, Villa des Hortensias 92350 Le Plessis-Robinson France",48.7801,2.26195
+"13, Rue de Bordeaux 94700 Maisons-Alfort France",48.8085,2.44973
+"7, Rue Bernard Jugault 92600 Asnières-sur-Seine France",48.9091,2.28444
+"21, Rue Jean Bart 92400 Courbevoie France",48.9007,2.25116
+"7, Rue Mathurin Méheut 29700 Pluguffan France",47.9846,-4.18683
+"67, Avenue du 11 Novembre 06600 Antibes France",43.5911,7.12419
+"15, Rue Auber 75009 Paris France",48.8727,2.32848
+"33, Avenue Paul Doumer 75116 Paris France",48.8607,2.28282
+"90, Rue de Miromesnil 75008 Paris France",48.879,2.31573
+"22, Rue Condorcet 13016 Marseille France",43.3566,5.34417
+"14, Rue Dupleix 78500 Sartrouville France",48.9469,2.19962
+", Rue Professeur Raymond Garcin 97200 Fort-de-France Martinique",14.6233,-61.078
+"1, Avenue Joseph Kessel 78180 Montigny-le-Bretonneux France",48.7742,2.03671
+", Boulevard d'Haussonville  Nancy France",48.6725,6.16527
+", Beauregard 57590 Juville France",48.9279,6.34437
+"38, Rue de Courcelles 75008 Paris France",48.876,2.30907
+"78, Rue Saint-Fuscien 80000 Amiens France",49.8833,2.30418
+"35760, Centre Performance Alphasis 35760 Saint-Grégoire France",48.1537,-1.69809
+"6, Rue Katia Krafft 67190 Mutzig France",48.5286,7.46345
+"19, Rue Gardenat Lapostol 92150 Suresnes France",48.8731,2.22319
+"1, Rue de Leichlingen 78160 Marly-le-Roi France",48.8741,2.08135
+"4, Chemin de la Chapelle Saint-Antoine 95300 Ennery France",49.0662,2.10883
+"65, Boulevard de la Croisette 06400 Cannes France",43.5489,7.02909
+"10, Avenue des Canuts 69120 Vaulx-en-Velin France",45.7609,4.92265
+"33, Avenue du Maine 75015 Paris France",48.8421,2.32197
+"10, Avenue de Messine 75008 Paris France",48.8759,2.31454
+"84, Avenue Eugène Varlin 77270 Villeparisis France",48.9456,2.59916
+"20, Rue Fernand Pelloutier 38130 Échirolles France",45.1519,5.71508
+"193, Avenue Pierre Brossolette 94170 Le Perreux-sur-Marne France",48.8345,2.51373
+", Zone d'aménagement concerté du Beau Pré 62131 Verquin France",50.5013,2.65013
+", Route de Jean Moulin 13300 Salon-de-Provence France",43.6745,5.09256
+"1627, Route du Linga 74390 Châtel France",46.2562,6.82982
+"20, Place du Marché 91490 Milly-la-Forêt France",48.4024,2.47003
+"66, Rue de Migneaux 78300 Poissy France",48.92,2.01171
+"52, Boulevard de Sébastopol 75001 Paris France",48.8628,2.35083
+"174, Boulevard Baille 13005 Marseille France",43.2886,5.39419
+",  29410 Guiclan France",48.5435,-4.01698
+"1, Rue des Déchargeurs 75001 Paris France",48.8596,2.34584
+"89, Boulevard du Montparnasse 75006 Paris France",48.8433,2.32645
+"126, Rue de Nantes 44160 Pontchâteau France",47.434,-2.08635
+"6, Boulevard Henri Chapu 77000 Melun France",48.5345,2.65777
+"22, Boulevard Chevalier de Clerville 34200 Sète France",43.4075,3.68192
+"20, Rue Callisto 25300 Doubs France",46.9269,6.34626
+"67, Rue Aristide Briand 77124 Villenoy France",48.9486,2.86893
+"33, Avenue Michelet 94210 Saint-Maur-des-Fossés France",48.7917,2.50954
+"66, Avenue des Champs-Élysées 75008 Paris France",48.8709,2.30543
+",    ",0.0,0.0
+",  43320 Sanssac-l'Église France",45.0521,3.77919
+"22, Rue Pierre et Marie Curie 62200 Boulogne-sur-Mer France",50.7323,1.60784
+"6, Rue Desazard de Montgaillhard 25260 Montenois France",47.4938,6.66383
+", Allée Robert Jondet 83520 Roquebrune-sur-Argens France",43.4275,6.66886
+"121, Rue de Lannoy 59100 Roubaix France",50.6874,3.18436
+"7, Le Buisson 88240 Le Clerjus France",47.9696,6.34735
+"29, Rue de l'Avenir 38150 Chanas France",45.3142,4.81289
+"27, Boulevard Saint-Martin 75010 Paris France",48.8683,2.35894
+", Rue du Gorge Bleu 44350 Guérande France",47.3371,-2.42136
+"31, Rue Girard de Vasson 37100 Tours France",47.4083,0.68567
+"43, Rue du Château 77400 Dampmart France",48.886,2.73945
+"12, Rue Paul Vaillant Couturier 92300 Levallois-Perret France",48.8947,2.2805
+"54, Rue Montoise 72100 Le Mans France",48.0096,0.189277
+"12, Rue Georges Bizet 66350 Toulouges France",42.6696,2.82661
+"168, Route de Mâcon 71300 Gourdon France",46.6619,4.39548
+"4, Allée des esquirols 07400 Le Teil France",44.5581,4.67711
+"2, Rue de l'Abbé Grégoire 91700 Sainte-Geneviève-des-Bois France",48.6424,2.34996
+"1, Lotissement le Guirail 64570 Aramits France",43.1229,-0.727106
+"29, Rue Thomas Barreau 45700 Montargis France",47.9917,2.72134
+"63, Rue de Cléry 75002 Paris France",48.869,2.34956
+"2, Rue Flandres Dunkerque 11700 Capendu France",43.1845,2.56024
+"5, Rue Pasteur 38610 Gières France",45.1834,5.78967
+"61, Route de Peyrilhac-Senon 87510 Saint-Gence France",45.9334,1.13254
+"9, Rue de Moscou 95520 Osny France",49.0703,2.0674
+"60, Avenue Jacques Duclos 95270 Saint-Martin-du-Tertre France",49.1051,2.33987
+"2, Impasse du Mercadel Bas 81710 Saix France",43.5852,2.15789
+"19, Rue de la Gobeline 78660 Boinville-le-Gaillard France",48.4962,1.85902
+"353, Rue de Cormery 37550 Saint-Avertin France",47.3422,0.73719
+"10, Rue Michelet 47190 Aiguillon France",44.298,0.339488
+"5, Rue Dampierre 75019 Paris France",48.8942,2.38375
+"98, Rue Emmanuel Chabrier 83220 Le Pradet France",43.1081,6.02395
+"19, Rue de Provence 30650 Saze France",43.9407,4.67998
+",  56390 Grand-Champ France",47.7292,-2.86853
+"7, Rue de la Truche 90120 Méziré France",47.5248,6.92011
+"68, Rue André Karman 93300 Aubervilliers France",48.9064,2.3844
+"39, Rue de Presles 93300 Aubervilliers France",48.9084,2.39382
+"37, Rue des Fauvettes 31700 Beauzelle France",43.6628,1.37836
+"8, Boulevard Roy 93320 Les Pavillons-sous-Bois France",48.9091,2.51733
+"9, Rue Pachot Lainé 93190 Livry-Gargan France",48.9223,2.54092
+"3, Rue Neuve 30350 Cardet France",44.0262,4.08142
+",  72130 Saint-Ouen-de-Mimbré France",48.2923,0.050005
+",  34110 Frontignan France",43.4448,3.756
+"3, Impasse Jean Philippe Rameau 21800 Chevigny-Saint-Sauveur France",47.297,5.132
+"3, Place de l'Europe 45400 Fleury-les-Aubrais France",47.9265,1.9135
+"7, Rue des Fauvettes 31700 Beauzelle France",43.663,1.37748
+"290, Avenue Napoléon Bonaparte 92500 Rueil-Malmaison France",48.8739,2.16248
+"106, Avenue Beaurepaire 94100 Saint-Maur-des-Fossés France",48.7871,2.48135
+"2, Rue Jean Mallard 83200 Toulon France",43.1299,5.91976
+"272, Rue du Faubourg Saint-Martin 75010 Paris France",48.8835,2.36836
+"261, Rue du Faubourg Saint-Antoine 75011 Paris France",48.8499,2.38718
+"101, Boulevard Poniatowski 75012 Paris France",48.8346,2.40455
+"3, Passage des Azalées 45100 Orléans France",47.8875,1.91109
+"6, Avenue du Maréchal Joffre 92000 Nanterre France",48.887,2.19935
+"4, Route du Pont du Roy 37310 Chédigny France",47.213,0.997202
+"11, Rue Jean-Baptiste Clément 93500 Le Pré-Saint-Gervais France",48.8889,2.4007
+"19, Rue Erard 75012 Paris France",48.8461,2.38536
+"58, Rue Cosserat 80000 Amiens France",49.9022,2.31362
+"5, Le Bourg Nord 33660 Puynormand France",44.9834,-0.0014607
+"54, Avenue du Mas Viel 34290 Servian France",43.4202,3.31287
+"1, Rue du Terme Boréal 77127 Lieusaint France",48.629,2.55377
+"565, Avenue des Oliviers 13340 Rognac France",43.5119,5.21914
+"9, Rue James Watt 93200 Saint-Denis France",48.9229,2.34138
+"6, Allée des Fauvettes 59147 Chemy France",50.5318,2.98953
+"9, Rue de la Plaine 85180 Le Château-d'Olonne France",46.4965,-1.76326
+"2, Rue Bossuet 37100 Tours France",47.4229,0.694606
+"1, Avenue du 1 Février 1954 94420 Le Plessis-Trévise France",48.8031,2.58811
+"2, Ruelle des Auches 51240 Nuisement-sur-Coole France",48.8746,4.30791
+"28, Avenue Abbé Lanfranchi 13011 Marseille France",43.2865,5.45503
+"28, Rue des Talus 59239 Thumeries France",50.4747,3.06757
+"85, Avenue Lamartine 94170 Le Perreux-sur-Marne France",48.8533,2.50017
+"20, Rue du Mont Minette 62650 Parenty France",50.5885,1.78901
+"7, Rue du Pas Saint-Christophe 95800 Cergy France",49.0469,2.0466
+"11 TER, Rue Bergeret 95290 L'Isle-Adam France",49.1126,2.22023
+"34, Rue Charles de Gaulle 94140 Alfortville France",48.8143,2.41578
+"19, Rue de l'Ermitage 83390 Pierrefeu-du-Var France",43.2261,6.14182
+"198, Rue de la Liberté 83480 Puget-sur-Argens France",43.4559,6.68184
+"31, Rue du Grenache 66380 Pia France",42.7462,2.91061
+"49, Rue du Puits de Chiard 45490 Corbeilles France",48.0754,2.55303
+"11, Rue des Cornouillers 95160 Montmorency France",48.9934,2.31621
+"101, Rue de Constantine 59100 Roubaix France",50.7051,3.18695
+"1, Rue Champeau 21800 Quetigny France",47.3161,5.09369
+"15, Sentier des Echalots 93380 Pierrefitte-sur-Seine France",48.9627,2.35553
+"13, Chemin des Maraîchers 81500 Lavaur France",43.6999,1.80502
+"81, Rue de la Fraternité 93170 Montreuil France",48.8582,2.42358
+"51, Rue du Maréchal Leclerc 94410 Saint-Maurice France",48.818,2.42611
+"6, Rue Nicéphore Niépce 38130 Échirolles France",45.1395,5.71647
+"256, Route d'Avignon 30000 Nîmes France",43.8465,4.3878
+"1, Chemin du Moulin 64230 Artiguelouve France",43.3239,-0.476718
+"278, Chemin du Puits Germain 13119 Saint-Savournin France",43.4023,5.53364
+"61, Rue Camille Pelletan 33150 Cenon France",44.8561,-0.519767
+"24, Avenue Robert Schuman 13100 Aix-en-Provence France",43.517,5.44626
+"13, Rue de la Libération 16400 La Couronne France",45.6078,0.100798
+"114, Avenue de la République 95550 Bessancourt France",49.0434,2.20687
+"34, Route de Bry 94350 Villiers-sur-Marne France",48.8307,2.53656
+"39, Rue du Mont Charvin 74230 Thônes France",45.8759,6.32148
+"5, Rue des Grouettes 95130 Franconville France",48.9967,2.2184
+"4, Allée Simone Garaix 26200 Montélimar France",44.5538,4.72311
+"17, Rue des Frères Lumière 14120 Mondeville France",49.1571,-0.310589
+"59, Rue de Messei 61100 Flers France",48.7474,-0.565295
+"13, Avenue Gabriel 78170 La Celle-Saint-Cloud France",48.848,2.14855
+"29, Chemin des Montarmots 25000 Besançon France",47.2616,6.02664
+"504, Avenue du Général de Gaulle 92140 Clamart France",48.7787,2.23466
+"17, Rue de l'Ellipse 91350 Grigny France",48.6516,2.37388
+"3, Rue Saint-Gabriel 13014 Marseille France",43.3217,5.38144
+"15, Impasse Paul Marietton 13200 Arles France",43.6641,4.65011
+"23, Rue Jean Piestre 91100 Corbeil-Essonnes France",48.5931,2.46654
+"43, Route de Mardyck 59380 Spycker France",50.9815,2.30407
+"51, Avenue des Alliés 77320 La Ferté-Gaucher France",48.7788,3.30998
+"11, Rue Edwin Aldrin 76120 Le Grand-Quevilly France",49.4121,1.04925
+"63, Chemin de Campagne 62150 Houdain France",50.4555,2.52725
+"189, Rue Oscar Loriau 59690 Vieux-Condé France",50.4787,3.57035
+"41, Rue Professeur Calmette 33150 Cenon France",44.8522,-0.517753
+"3, Boulevard de Strasbourg 31000 Toulouse France",43.6059,1.44808
+"8, Rue des Primevères 45270 Villemoutiers France",47.9912,2.55709
+"35, Rue le Marois 75016 Paris France",48.8384,2.26056
+"159, Montée de Chervinges 69400 Gleize France",45.9817,4.69244
+"3, Rue d'Issenheim 68190 Raedersheim France",47.8874,7.27631
+"3, Rue d'Issenheim 68500 Bergholtz France",47.9181,7.24725
+"57, Rue Martyrs de Libération 62190 Lillers France",50.5674,2.4728
+"100, Avenue du Général Leclerc 93500 Pantin France",48.8972,2.40531
+"1, Rue Pierre et Marie Curie 92360 Meudon France",48.7889,2.22874
+"55, Rue de Lixheim 57400 Hilbesheim France",48.7774,7.10323
+"201, Rue de Picardie 60310 Canny-sur-Matz France",49.6059,2.8042
+"9, Boulevard Aillaud 13005 Marseille France",43.292,5.41053
+"11, Rue Maraldi 06300 Nice France",43.7064,7.28406
+"14, Avenue Ingres 89000 Auxerre France",47.7991,3.54763
+"14, Rue Gilles de Roberval 33510 Andernos-les-Bains France",44.7647,-1.07692
+"210, Rue Michel Creminesi 38140 Renage France",45.3352,5.48808
+"1, Allée Denis Diderot 78260 Achères France",48.9567,2.06104
+"6, Boulevard Germain Clairin 13220 Châteauneuf-les-Martigues France",43.3829,5.16486
+"27, Impasse de la Forêt 27910 Perruel France",49.4253,1.38228
+"7, Montée Commandant de Robien 13011 Marseille France",43.2899,5.48416
+"47, Rue Jules Breton 59000 Lille France",50.6069,3.04633
+"29, Traverse Santi 13015 Marseille France",43.3441,5.35019
+"9, Rue de Rugby 27000 Évreux France",49.0089,1.15976
+"11, Rue des Trois Doms 80500 Rubescourt France",49.6073,2.56969
+"14, Rue Jeanne d'Arc 59167 Lallaing France",50.3883,3.17006
+"11, Rue Pierre Brossolette 80470 Ailly-sur-Somme France",49.9283,2.19892
+"102, Avenue de la Gironde 59640 Dunkerque France",51.0043,2.33502
+"611, Rue des Pommiers 76680 Saint-Hellier France",49.7321,1.19157
+"194, Rue de Rosny 93100 Montreuil France",48.8674,2.4586
+"40, Avenue Louis Pierre Laroque 93150 Le Blanc-Mesnil France",48.922,2.47235
+"5, Allée des Grandes Maisons 94250 Gentilly France",48.8061,2.34387
+"19, Rue de Dreux 27220 Saint-André-de-l'Eure France",48.9046,1.27699
+"50, Avenue Maurouard 93190 Livry-Gargan France",48.9311,2.54533
+"25, Rue Michal 75013 Paris France",48.8267,2.34916
+"5, Rue Côte Louis 57700 Neufchef France",49.3206,6.02681
+"35, Route d'Oussoy 45700 Lombreuil France",47.938,2.63163
+"5, Rue du Presbytère 77930 Chailly-en-Bière France",48.4661,2.60883
+"158, Rue Diderot 93500 Pantin France",48.9019,2.40704
+"11, Rue des Tournelles 77500 Chelles France",48.8767,2.59317
+"36, Rue Consolat 13001 Marseille France",43.3,5.38719
+"109, Boulevard du Général Leclerc 92110 Clichy France",48.9086,2.30748
+"23, La Mare Vernier 27260 Asnieres France",49.2256,0.411863
+"159, Rue Camille Pelletan 33150 Cenon France",44.8534,-0.520531
+"22, Chemin des Jardins 91250 Saintry-sur-Seine France",48.5944,2.49453
+"27, Rue Centrale 13013 Marseille France",43.3515,5.43929
+"27, Rue Centrale 13011 Marseille France",43.2985,5.48403
+"4, Avenue de Verdun 74100 Annemasse France",46.1879,6.24311
+"20, Rue Berthe Morisot 95220 Herblay France",49.0036,2.19197
+"12, Rue Jacob Courant 78300 Poissy France",48.9308,2.03626
+"75, Boulevard de Magenta 75010 Paris France",48.8755,2.35651
+"87, Rue du Charolais 75012 Paris France",48.8437,2.38096
+"109, Rue Victor Hugo 62950 Noyelles-Godault France",50.4159,2.9926
+"3, Rue de Canapé 29720 Plonéour-Lanvern France",47.8711,-4.23845
+"30, Impasse du Guetteur 77500 Chelles France",48.8911,2.60282
+"18, Cité des Glycines 29510 Briec France",48.0994,-4.00285
+"19, Rue Georges Clemenceau 29400 Landivisiau France",48.5096,-4.06921
+"6, Avenue du 8 Mai 1945 83340 Le Cannet-des-Maures France",43.3899,6.34248
+"21, Rue Carmen 30000 Nîmes France",43.8393,4.3921
+"1, Rue Schyller 33140 Villenave-d'Ornon France",44.7834,-0.583799
+"7, Avenue des Bois 95130 Franconville France",48.9818,2.22934
+"1, Boulevard de l'Europe 28100 Dreux France",48.7388,1.3508
+"291, Chemin des Maladiéres 74330 Poisy France",45.9154,6.06446
+"1, Rue Monge 93160 Noisy-le-Grand France",48.8425,2.5454
+"9, Rue Jacques Chaban Delmas 93000 Bobigny France",48.9095,2.45323
+"120, Rue Pascal d'Oriano 83000 Toulon France",43.1127,5.95125
+"79, Chemin du Pré de la Fin 74500 Maxilly-sur-Léman France",46.3961,6.62953
+"39, Boulevard Colonel Fabien 92240 Malakoff France",48.8127,2.27995
+"7, Avenue de Montalembert 93600 Aulnay-sous-Bois France",48.9234,2.49107
+"85, Rue Jules Guesde 94490 Ormesson-sur-Marne France",48.7887,2.53456
+"120, Avenue du Maréchal Leclerc 33130 Bègles France",44.8099,-0.542149
+"411, Rue des Rives de L'Ain 01160 Varambon France",46.0401,5.31701
+"5, Rue de la Poterie 89460 Deux Rivières France",47.6618,3.7079
+"145, Avenue Cyrille Besset 06100 Nice France",43.7237,7.24748
+"57, Rue de Montreuil 75011 Paris France",48.8507,2.38941
+"92, Rue de Dole 25000 Besançon France",47.2314,5.996
+"12, Rue Saint-Mennevieux 76220 Molagnies France",49.5151,1.71506
+"15, Rue nationale 36800 Le Pont-Chrétien-Chabenet France",46.6307,1.47841
+"2, Petit Chemin de l'Armurie 31770 Colomiers France",43.5945,1.35126
+"9, Rue des Jardins 64700 Hendaye France",43.359,-1.775
+"16, Rue du Régal 11000 Carcassonne France",43.212,2.28251
+"6, Allée des Lilas 95110 Sannois France",48.9722,2.27147
+"22, Rue Merle 06400 Cannes France",43.5549,7.02286
+"69, Allée Francisco Ferrer 59760 Grande-Synthe France",51.0054,2.29641
+"115, Avenue de la République 92120 Montrouge France",48.8131,2.31647
+"450, Le Grand Mail 34000 Montpellier France",43.6246,3.81654
+"10, Avenue du Maréchal Foch 91660 Méréville France",48.3135,2.09546
+"9, Rue des Vignes 51360 Beaumont-sur-Vesle France",49.1745,4.1846
+"5, Rue du Général Gallieni 17000 La Rochelle France",46.161,-1.14837
+"2, Rue d'Iverny 77410 Villeroy France",48.9851,2.78074
+"1, Rue d'Audincthun 62560 Dennebrœucq France",50.5741,2.1515
+"44, Avenue de la Division Leclerc 93350 Le Bourget France",48.9338,2.42511
+"12, Rue de la Coopération 42300 Roanne France",46.0294,4.06467
+"12, Place du 11 Novembre 33850 Léognan France",44.7295,-0.589913
+"16, Avenue de la République 94200 Ivry-sur-Seine France",48.8051,2.39409
+"2, Rue du Ratelot 70100 Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur France",47.5044,5.67711
+"5, Rue de la Concorde 78000 Versailles France",48.803,2.15823
+"15, Route nationale 36300  France",46.6297,1.24633
+"1093, Avenue de Maurin 34070 Montpellier France",43.5956,3.87466
+"5, Avenue de l'Orme À Martin 91080 Courcouronnes France",48.6309,2.41323
+"5, Rue des Cerisiers 91090 Lisses France",48.5973,2.43571
+"78, Rue Olivier de Serres 75015 Paris France",48.8332,2.29422
+"131, Boulevard Marx Dormoy 93390 Clichy-sous-Bois France",48.9038,2.52199
+"6, Avenue Anatole France 94600 Choisy-le-Roi France",48.7644,2.40767
+"16, Rue Salvador Allende 93240 Stains France",48.946,2.3839
+"55, Rue de Montreuil 75011 Paris France",48.8506,2.38938
+"13, Rue de la Chaume Blanche 36160 Pouligny-Notre-Dame France",46.4816,2.00356
+"9, Passage du Chemin Vert 75011 Paris France",48.8595,2.37438
+"3, Rue Raymond Vidal 78100 Saint-Germain-en-Laye France",48.8966,2.08044
+"837, Allée de Paris 83500 La Seyne-sur-Mer France",43.1108,5.8501
+"113, Rue des Mineurs 30410 Meyrannes France",44.263,4.1599
+"295, Chemin du Cavin 38320 Brié-et-Angonnes France",45.1337,5.77839
+"1, Rue Alfred Binet 06000 Nice France",43.7099,7.26008
+"45, Rue d'Ulm 75005 Paris France",48.8418,2.34404
+"78, Chemin de l'Église de Lalande 31200 Toulouse France",43.6489,1.42685
+"67, Avenue du 11 Novembre 06600 Antibes France",43.5911,7.12419
+

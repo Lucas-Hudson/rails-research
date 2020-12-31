@@ -32,6 +32,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'rspec-rails', '~> 4.0.1'
+  gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
 end
 
 group :development do
@@ -41,16 +42,15 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem "table_print"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'table_print'
-gem 'dotenv-rails'
-gem "bootstrap_form", "~> 4.0"
-gem 'geocoder'
-gem 'faker'
-gem 'active_record_extended'
-gem 'friendly_id', '~> 5.2.4'
+gem "dotenv-rails"
+gem "geocoder"
+gem "active_record_extended"
 gem "kaminari", ">= 1.2.1"
+gem "bootstrap_form", "~> 4.0"
+

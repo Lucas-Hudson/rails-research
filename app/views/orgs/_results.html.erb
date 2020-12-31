@@ -1,35 +1,33 @@
-<div class="row justify-content-center">
-  <div class="col">
-    <table class="table table-striped">
-      <thead>
-      <tr>
-        <th scope="col">Name</th>
-        <% @searchable_categories.each do |sc| %>
-          <th scope="col"><%= sc.name %></th>
-        <% end %>
-        <th scope="col">Address</th>
-      </tr>
-      </thead>
-      <tbody>
-      <% @orgs.each do |org| %>
-        <tr>
-          <td><%= org.name %></td>
-          <% @searchable_categories.each do |sc| %>
-            <td>
-              <% org.searchable_attributes.
-                  where(searchable_attribute_category: @searchable_categories.find_by(name: sc.name)).
-                  each do |s| %>
-                <span class="<%= "font-weight-bold" if params[:filters]&.split("/")&.flatten&.include?(s.slug) %>">
-                  <%= s.name %>
-                </span>
-              <% end %>
-            </td>
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">Name</th>
+    <% @searchable_categories.each do |sc| %>
+      <th scope="col"><%= sc.name %></th>
+    <% end %>
+    <th scope="col">Address</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @orgs.each do |org| %>
+    <tr>
+      <td><%= link_to_org org %></td>
+      <% @searchable_categories.each do |sc| %>
+        <td>
+          <% org.searchable_attributes.
+              where(searchable_attribute_category: @searchable_categories.find_by(name: sc.name)).
+              each do |s| %>
+            <span class="<%= "font-weight-bold" if params[:filters]&.include?(s.slug) %>">
+              <%= s.name %>
+            </span>
           <% end %>
-          <td><%= org.place&.address %></td>
-        </tr>
+        </td>
       <% end %>
-      </tbody>
-    </table>
-    <%= paginate @orgs %>
-  </div>
-</div>
+      <td><%= org.place&.address %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+
+<%= paginate @orgs %>
+

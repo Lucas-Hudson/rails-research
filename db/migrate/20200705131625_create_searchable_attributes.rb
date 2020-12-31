@@ -3,6 +3,7 @@ class CreateSearchableAttributes < ActiveRecord::Migration[6.0]
     create_table :searchable_attributes do |t|
       t.belongs_to :searchable_attribute_category
       t.string :name
+      t.string :slug
 
       t.timestamps
     end
